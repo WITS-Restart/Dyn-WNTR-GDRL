@@ -1,0 +1,130 @@
+[TITLE]
+5x5 grid derived from 10x10.inp with R1 at center
+
+[TITLE]
+10x10 Grid Network with Central Reservoir R1 (replacing J55)
+
+[OPTIONS]
+Units              	GPM
+ Headloss           	H-W
+ Specific Gravity   	1.000000
+ Viscosity          	1
+ Trials             	40
+ Accuracy           	0.01
+ CHECKFREQ          	2
+ MAXCHECK           	10
+ DAMPLIMIT          	0
+ Unbalanced         	Continue 10
+ Pattern            	1
+ Demand Multiplier  	1.000000
+ Emitter Exponent   	0.500000
+ Quality            	None mg/L
+ Diffusivity        	1
+ Tolerance          	0.010000
+
+[REPORT]
+Status	Yes
+Summary	Yes
+
+[JUNCTIONS]
+;ID           Elevation    Demand     Pattern
+J1             0            0         
+J2             0            0         
+J3             0            0         
+J4             0            0         
+J5             0            0         
+J6             0            0         
+J7             0            0         
+J8             0            0         
+J9             0            0         
+J10            0            0         
+J11            0            0         
+J12            0            0         
+J14            0            0         
+J15            0            0         
+J16            0            0         
+J17            0            0         
+J18            0            0         
+J19            0            0         
+J20            0            0         
+J21            0            0         
+J22            0            0         
+J23            0            0         
+J24            0            0         
+J25            0            0         
+
+[RESERVOIRS]
+;ID           Head        Pattern
+R1            50
+
+[PIPES]
+;ID           Node1        Node2        Length      Diameter    Roughness   MinorLoss   Status
+P1             J1           J2           25.000      11          100         0           Open
+P2             J1           J6           25.000      11          100         0           Open
+P3             J2           J3           25.000      11          100         0           Open
+P4             J2           J7           25.000      11          100         0           Open
+P5             J3           J4           25.000      11          100         0           Open
+P6             J3           J8           25.000      11          100         0           Open
+P7             J4           J5           25.000      11          100         0           Open
+P8             J4           J9           25.000      11          100         0           Open
+P9             J5           J10          25.000      11          100         0           Open
+P10            J6           J7           25.000      11          100         0           Open
+P11            J6           J11          25.000      11          100         0           Open
+P12            J7           J8           25.000      11          100         0           Open
+P13            J7           J12          25.000      11          100         0           Open
+P14            J8           J9           25.000      11          100         0           Open
+P15            J8           R1           25.000      11          100         0           Open
+P16            J9           J10          25.000      11          100         0           Open
+P17            J9           J14          25.000      11          100         0           Open
+P18            J10          J15          25.000      11          100         0           Open
+P19            J11          J12          25.000      11          100         0           Open
+P20            J11          J16          25.000      11          100         0           Open
+P21            J12          R1           25.000      11          100         0           Open
+P22            J12          J17          25.000      11          100         0           Open
+P23            R1           J14          25.000      11          100         0           Open
+P24            R1           J18          25.000      11          100         0           Open
+P25            J14          J15          25.000      11          100         0           Open
+P26            J14          J19          25.000      11          100         0           Open
+P27            J15          J20          25.000      11          100         0           Open
+P28            J16          J17          25.000      11          100         0           Open
+P29            J16          J21          25.000      11          100         0           Open
+P30            J17          J18          25.000      11          100         0           Open
+P31            J17          J22          25.000      11          100         0           Open
+P32            J18          J19          25.000      11          100         0           Open
+P33            J18          J23          25.000      11          100         0           Open
+P34            J19          J20          25.000      11          100         0           Open
+P35            J19          J24          25.000      11          100         0           Open
+P36            J20          J25          25.000      11          100         0           Open
+P37            J21          J22          25.000      11          100         0           Open
+P38            J22          J23          25.000      11          100         0           Open
+P39            J23          J24          25.000      11          100         0           Open
+P40            J24          J25          25.000      11          100         0           Open
+
+[COORDINATES]
+J1             0.000 225.000
+J2             25.000 225.000
+J3             50.000 225.000
+J4             75.000 225.000
+J5             100.000 225.000
+J6             0.000 200.000
+J7             25.000 200.000
+J8             50.000 200.000
+J9             75.000 200.000
+J10            100.000 200.000
+J11            0.000 175.000
+J12            25.000 175.000
+J14            75.000 175.000
+J15            100.000 175.000
+J16            0.000 150.000
+J17            25.000 150.000
+J18            50.000 150.000
+J19            75.000 150.000
+J20            100.000 150.000
+J21            0.000 125.000
+J22            25.000 125.000
+J23            50.000 125.000
+J24            75.000 125.000
+J25            100.000 125.000
+R1             50.000 175.000
+
+[END]

@@ -1,0 +1,128 @@
+[TITLE]
+
+[JUNCTIONS]
+;ID                      Elevation       Demand Pattern                 
+ J0                                 0    0.0                            ;
+ J1                                 0    0.0                            ;
+ J2                                 0    0.0                            ;
+ J3                                 0    0.0                            ;
+ J4                                 0    0.0                            ;
+ J5                                 0    0.0                            ;
+ J6                                 0    0.0                            ;
+
+[RESERVOIRS]
+;ID                                   Head                  Pattern
+ R1                       328.0839895                            ;
+
+[TANKS]
+;ID                              Elevation           Init Level            Min Level            Max Level             Diameter           Min Volume Volume Curve         Overflow            
+
+[PIPES]
+;ID                   Node1                Node2                              Length             Diameter            Roughness           Minor Loss               Status
+ P0                   R1                   J0                       328.0839895    11.811023622             100               0                 Open   ;
+ P1                   J0                   J1                      492.12598425     9.842519685             100               0                 Open   ;
+ P2                   J0                   J2                      492.12598425     9.842519685             100               0                 Open   ;
+ P3                   J0                   J3                      492.12598425     9.842519685             100               0                 Open   ;
+ P4                   J0                   J4                      492.12598425     9.842519685             100               0                 Open   ;
+ P5                   J0                   J5                      492.12598425     9.842519685             100               0                 Open   ;
+ P6                   J0                   J6                      492.12598425     9.842519685             100               0                 Open   ;
+
+[PUMPS]
+;ID                   Node1                Node2                Properties          
+
+[VALVES]
+;ID                   Node1                Node2                            Diameter Type              Setting           Minor Loss
+
+[TAGS]
+;type      name       tag       
+
+[DEMANDS]
+;ID        Demand     Pattern   
+
+[STATUS]
+;ID        Setting   
+
+[PATTERNS]
+;ID        Multipliers
+
+[CURVES]
+;ID         X-Value      Y-Value     
+
+[CONTROLS]
+
+[RULES]
+
+[ENERGY]
+GLOBAL PRICE           0.0000
+
+[EMITTERS]
+;ID        Flow coefficient
+
+[QUALITY]
+
+[SOURCES]
+;Node      Type       Quality    Pattern   
+
+[REACTIONS]
+;Type           Pipe/Tank               Coefficient
+
+ ORDER BULK 1
+ ORDER TANK 1
+ ORDER WALL 1
+ GLOBAL BULK 0.0000    
+ GLOBAL WALL 0.0000    
+
+[MIXING]
+;Tank ID             Model Fraction
+
+[TIMES]
+DURATION             00:00:00
+HYDRAULIC TIMESTEP   01:00:00
+QUALITY TIMESTEP     00:06:00
+PATTERN TIMESTEP     01:00:00
+PATTERN START        00:00:00
+REPORT TIMESTEP      01:00:00
+REPORT START         00:00:00
+START CLOCKTIME      00:00:00 AM
+RULE TIMESTEP        00:06:00
+STATISTIC            NONE      
+
+[REPORT]
+
+[OPTIONS]
+UNITS                GPM                 
+HEADLOSS             H-W                 
+SPECIFIC GRAVITY     1
+VISCOSITY            1
+TRIALS               200
+ACCURACY             0.001
+CHECKFREQ            2
+MAXCHECK             10
+UNBALANCED           STOP                
+PATTERN              1                   
+DEMAND MULTIPLIER    1
+EMITTER EXPONENT     0.5
+QUALITY              NONE                
+DIFFUSIVITY          1
+TOLERANCE            0.01
+
+[COORDINATES]
+;Node      X-Coord    Y-Coord   
+R1                 27.000000000         27.000000000
+J0                100.000000000          0.000000000
+J1                250.000000000          0.000000000
+J2                175.000000000        129.903810568
+J3                 25.000000000        129.903810568
+J4                -50.000000000          0.000000000
+J5                 25.000000000       -129.903810568
+J6                175.000000000       -129.903810568
+
+[VERTICES]
+;Link      X-Coord    Y-Coord   
+
+[LABELS]
+
+[BACKDROP]
+UNITS    NONE
+
+[END]

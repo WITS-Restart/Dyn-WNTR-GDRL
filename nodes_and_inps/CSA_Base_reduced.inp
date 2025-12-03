@@ -1,0 +1,2412 @@
+[TITLE]
+
+
+[JUNCTIONS]
+;ID              	Elev        	Demand      	Pattern         
+ Junction_12     	646.465200  	0           	                	;
+ Junction_13     	649.405800  	0           	                	;
+ Junction_1335   	599.274200  	0           	                	;
+ Junction_1336   	599.274200  	0           	                	;
+ Junction_1337   	596.511300  	0           	                	;
+ Junction_1338   	596.511300  	0           	                	;
+ Junction_1339   	596.511300  	0           	                	;
+ Junction_1340   	596.511300  	0           	                	;
+ Junction_1341   	596.511300  	0           	                	;
+ Junction_1342   	596.511300  	0           	                	;
+ Junction_1343   	590.137600  	0           	                	;
+ Junction_1344   	590.137600  	0.000019    	Utenze_CSA      	;
+ Junction_1345   	593.241500  	0           	                	;
+ Junction_1346   	589.214400  	0           	                	;
+ Junction_1347   	597.726100  	0           	                	;
+ Junction_1348   	597.726100  	0           	                	;
+ Junction_1349   	597.726100  	0.000891    	Utenze_CSA      	;
+ Junction_1350   	596.902100  	0           	                	;
+ Junction_1351   	596.902100  	0           	                	;
+ Junction_1352   	596.902100  	0.000990    	Utenze_CSA      	;
+ Junction_1353   	596.902100  	0           	                	;
+ Junction_1354   	596.902100  	0           	                	;
+ Junction_1355   	596.902100  	0           	                	;
+ Junction_1356   	599.300400  	0           	                	;
+ Junction_1357   	599.299000  	0           	                	;
+ Junction_1358   	599.299000  	0           	                	;
+ Junction_1359   	599.299000  	0           	                	;
+ Junction_1360   	599.299000  	0           	                	;
+ Junction_1361   	599.299000  	0           	                	;
+ Junction_1362   	600.621100  	0.000205    	Utenze_CSA      	;
+ Junction_1363   	600.621100  	0           	                	;
+ Junction_1364   	603.193600  	0.000055    	Utenze_CSA      	;
+ Junction_1365   	603.193600  	0           	                	;
+ Junction_1366   	603.193600  	0           	                	;
+ Junction_1367   	603.193600  	0           	                	;
+ Junction_1368   	603.193600  	0           	                	;
+ Junction_1369   	603.193600  	0           	                	;
+ Junction_1370   	603.121500  	0           	                	;
+ Junction_1371   	602.374500  	0           	                	;
+ Junction_1372   	602.374500  	0.000056    	Utenze_CSA      	;
+ Junction_1373   	603.193600  	0           	                	;
+ Junction_1374   	603.121500  	0           	                	;
+ Junction_1375   	603.893600  	0           	                	;
+ Junction_1376   	603.893600  	0           	                	;
+ Junction_1377   	603.893600  	0.000329    	Utenze_CSA      	;
+ Junction_1378   	603.893600  	0           	                	;
+ Junction_1379   	602.374500  	0           	                	;
+ Junction_1380   	602.374500  	0           	                	;
+ Junction_1381   	605.855600  	0           	                	;
+ Junction_1382   	605.855600  	0           	                	;
+ Junction_1383   	605.855600  	0           	                	;
+ Junction_1384   	605.855600  	0           	                	;
+ Junction_1385   	605.855600  	0           	                	;
+ Junction_1386   	605.855600  	0           	                	;
+ Junction_1387   	604.763900  	0           	                	;
+ Junction_1388   	604.763900  	0           	                	;
+ Junction_1389   	606.811800  	0           	                	;
+ Junction_1390   	605.855600  	0           	                	;
+ Junction_1391   	605.855600  	0.000891    	Utenze_CSA      	;
+ Junction_1392   	606.811800  	0.001150    	Utenze_CSA      	;
+ Junction_1393   	606.811800  	0.000383    	Utenze_CSA      	;
+ Junction_1394   	605.855600  	0           	                	;
+ Junction_1395   	605.855600  	0           	                	;
+ Junction_1396   	609.307100  	0           	                	;
+ Junction_1397   	609.307100  	0           	                	;
+ Junction_1398   	609.307100  	0           	                	;
+ Junction_1399   	609.307100  	0           	                	;
+ Junction_14     	649.405800  	0           	                	;
+ Junction_1400   	611.880800  	0.001214    	Utenze_CSA      	;
+ Junction_1401   	613.080800  	0           	                	;
+ Junction_1402   	609.516700  	0           	                	;
+ Junction_1403   	609.516700  	0.000447    	Utenze_CSA      	;
+ Junction_1404   	609.516700  	0           	                	;
+ Junction_1405   	610.725400  	0           	                	;
+ Junction_1406   	610.725400  	0           	                	;
+ Junction_1407   	604.924100  	0.002205    	Utenze_CSA      	;
+ Junction_1408   	604.924100  	0           	                	;
+ Junction_1409   	605.855600  	0           	                	;
+ Junction_1410   	607.641800  	0           	                	;
+ Junction_1411   	605.855600  	0.000012    	Utenze_CSA      	;
+ Junction_1412   	607.641800  	0.001616    	Utenze_CSA      	;
+ Junction_1413   	607.641800  	0           	                	;
+ Junction_1414   	609.756800  	0           	                	;
+ Junction_1415   	609.756800  	0           	                	;
+ Junction_1416   	609.756800  	0           	                	;
+ Junction_1417   	609.756800  	0           	                	;
+ Junction_1418   	609.756800  	0           	                	;
+ Junction_1419   	609.756800  	0           	                	;
+ Junction_1420   	605.767900  	0.000991    	Utenze_CSA      	;
+ Junction_1421   	605.051200  	0           	                	;
+ Junction_1422   	605.767900  	0           	                	;
+ Junction_1423   	605.767900  	0.000109    	Utenze_CSA      	;
+ Junction_1424   	611.871900  	0.000831    	Utenze_CSA      	;
+ Junction_1425   	611.871900  	0           	                	;
+ Junction_1426   	610.590800  	0           	                	;
+ Junction_1427   	609.756800  	0           	                	;
+ Junction_1428   	610.288900  	0.000228    	Utenze_CSA      	;
+ Junction_1429   	610.288900  	0           	                	;
+ Junction_1430   	611.038000  	0.000415    	Utenze_CSA      	;
+ Junction_1431   	611.038000  	0           	                	;
+ Junction_1432   	610.288900  	0           	                	;
+ Junction_1433   	610.288900  	0           	                	;
+ Junction_1434   	608.202800  	0           	                	;
+ Junction_1435   	608.202800  	0           	                	;
+ Junction_1436   	608.202800  	0           	                	;
+ Junction_1437   	608.202800  	0           	                	;
+ Junction_1438   	610.288900  	0           	                	;
+ Junction_1439   	610.672900  	0           	                	;
+ Junction_1440   	608.361800  	0           	                	;
+ Junction_1441   	608.361800  	0.000891    	Utenze_CSA      	;
+ Junction_1442   	612.691300  	0.000891    	Utenze_CSA      	;
+ Junction_1443   	610.590800  	0           	                	;
+ Junction_1444   	612.691300  	0           	                	;
+ Junction_1445   	612.691300  	0           	                	;
+ Junction_1446   	613.090800  	0.000384    	Utenze_CSA      	;
+ Junction_1447   	611.247400  	0.001342    	Utenze_CSA      	;
+ Junction_1448   	610.590800  	0.000045    	Utenze_CSA      	;
+ Junction_1449   	610.590800  	0           	                	;
+ Junction_1450   	611.247400  	0.000891    	Utenze_CSA      	;
+ Junction_1451   	610.590800  	0.000209    	Utenze_CSA      	;
+ Junction_1452   	608.475700  	0           	                	;
+ Junction_1453   	612.701300  	0.000174    	Utenze_CSA      	;
+ Junction_1454   	612.701300  	0           	                	;
+ Junction_1455   	612.691300  	0           	                	;
+ Junction_1456   	614.520600  	0           	                	;
+ Junction_1457   	614.520600  	0           	                	;
+ Junction_1458   	613.986900  	0           	                	;
+ Junction_1459   	613.986900  	0           	                	;
+ Junction_1460   	613.986900  	0           	                	;
+ Junction_1461   	613.986900  	0           	                	;
+ Junction_1462   	613.986900  	0           	                	;
+ Junction_1463   	613.986900  	0           	                	;
+ Junction_1464   	613.986900  	0           	                	;
+ Junction_1465   	613.986900  	0           	                	;
+ Junction_1466   	613.986900  	0           	                	;
+ Junction_1467   	613.986900  	0           	                	;
+ Junction_1468   	614.520600  	0           	                	;
+ Junction_1469   	620.530400  	0           	                	;
+ Junction_1470   	620.530400  	0.002716    	Utenze_CSA      	;
+ Junction_1471   	627.533100  	0           	                	;
+ Junction_1472   	624.354400  	0           	                	;
+ Junction_1473   	629.086100  	0.000891    	Utenze_CSA      	;
+ Junction_1474   	635.252100  	0.000891    	Utenze_CSA      	;
+ Junction_1475   	632.601500  	0           	                	;
+ Junction_1476   	641.628800  	0           	                	;
+ Junction_1477   	639.830200  	0           	                	;
+ Junction_1478   	617.383200  	0.000607    	Utenze_CSA      	;
+ Junction_1479   	617.383200  	0           	                	;
+ Junction_1480   	617.383200  	0           	                	;
+ Junction_1481   	617.383200  	0           	                	;
+ Junction_1482   	616.551800  	0           	                	;
+ Junction_1483   	616.551800  	0           	                	;
+ Junction_1484   	616.551800  	0.000131    	Utenze_CSA      	;
+ Junction_1485   	616.551800  	0           	                	;
+ Junction_1486   	616.551800  	0           	                	;
+ Junction_1487   	616.551800  	0           	                	;
+ Junction_1488   	616.551800  	0           	                	;
+ Junction_1489   	616.551800  	0           	                	;
+ Junction_1490   	616.551800  	0           	                	;
+ Junction_1491   	616.551800  	0           	                	;
+ Junction_1492   	616.551800  	0           	                	;
+ Junction_1493   	616.551800  	0           	                	;
+ Junction_1494   	616.551800  	0           	                	;
+ Junction_1495   	616.551800  	0.001616    	Utenze_CSA      	;
+ Junction_1496   	616.867200  	0.000664    	Utenze_CSA      	;
+ Junction_1497   	616.867200  	0.000156    	Utenze_CSA      	;
+ Junction_1498   	613.854100  	0.001616    	Utenze_CSA      	;
+ Junction_1499   	613.854100  	0           	                	;
+ Junction_1500   	613.950200  	0           	                	;
+ Junction_1501   	610.872100  	0           	                	;
+ Junction_1502   	610.872100  	0           	                	;
+ Junction_1503   	610.872100  	0           	                	;
+ Junction_1504   	594.378700  	0           	                	;
+ Junction_1505   	595.619000  	0.000891    	Utenze_CSA      	;
+ Junction_1506   	597.726100  	0           	                	;
+ Junction_1507   	599.300400  	0.000139    	Utenze_CSA      	;
+ Junction_1508   	599.300400  	0           	                	;
+ Junction_1509   	606.811800  	0           	                	;
+ Junction_1510   	606.811800  	0           	                	;
+ Junction_1511   	613.080800  	0.000114    	Utenze_CSA      	;
+ Junction_1528   	610.872100  	0           	                	;
+ Junction_1529   	601.113200  	0.001981    	Utenze_CSA      	;
+ Junction_1530   	601.113200  	0.000128    	Utenze_CSA      	;
+ Junction_1531   	602.374500  	0           	                	;
+ Junction_1532   	602.374500  	0           	                	;
+ Junction_1533   	598.875200  	0           	                	;
+ Junction_1534   	602.538300  	0           	                	;
+ Junction_1535   	602.538300  	0           	                	;
+ Junction_1536   	602.538300  	0           	                	;
+ Junction_1537   	602.538300  	0           	                	;
+ Junction_1538   	602.538300  	0           	                	;
+ Junction_1539   	602.538300  	0.000046    	Utenze_CSA      	;
+ Junction_1540   	603.823900  	0.000895    	Utenze_CSA      	;
+ Junction_1541   	606.888400  	0.004250    	Utenze_CSA      	;
+ Junction_1542   	603.823900  	0           	                	;
+ Junction_1543   	606.888400  	0           	                	;
+ Junction_1544   	605.173200  	0           	                	;
+ Junction_1545   	605.173200  	0           	                	;
+ Junction_1546   	606.669800  	0.004661    	Utenze_CSA      	;
+ Junction_1547   	606.669800  	0           	                	;
+ Junction_1548   	609.314000  	0.000022    	Utenze_CSA      	;
+ Junction_1549   	609.314000  	0           	                	;
+ Junction_1550   	601.113200  	0           	                	;
+ Junction_1551   	602.538300  	0           	                	;
+ Junction_1552   	612.635700  	0.000479    	Utenze_CSA      	;
+ Junction_1553   	612.635700  	0           	                	;
+ Junction_1554   	612.635700  	0           	                	;
+ Junction_1555   	610.755300  	0           	                	;
+ Junction_1556   	612.635700  	0           	                	;
+ Junction_1557   	612.635700  	0.004026    	Utenze_CSA      	;
+ Junction_1558   	610.755300  	0           	                	;
+ Junction_1559   	612.635700  	0           	                	;
+ Junction_1560   	612.635700  	0           	                	;
+ Junction_1561   	612.635700  	0           	                	;
+ Junction_1562   	612.729000  	0           	                	;
+ Junction_1563   	612.729000  	0           	                	;
+ Junction_1564   	612.729000  	0           	                	;
+ Junction_1565   	612.729000  	0           	                	;
+ Junction_1566   	612.729000  	0.003898    	Utenze_CSA      	;
+ Junction_1567   	612.729000  	0           	                	;
+ Junction_1568   	612.729000  	0           	                	;
+ Junction_1569   	612.729000  	0           	                	;
+ Junction_1570   	612.729000  	0           	                	;
+ Junction_1571   	612.729000  	0           	                	;
+ Junction_1572   	613.080800  	0           	                	;
+ Junction_1573   	613.080800  	0           	                	;
+ Junction_1574   	611.194200  	0           	                	;
+ Junction_1575   	613.524400  	0           	                	;
+ Junction_1576   	611.194200  	0           	                	;
+ Junction_1577   	611.194200  	0           	                	;
+ Junction_1578   	611.194200  	0.004464    	Utenze_CSA      	;
+ Junction_1579   	611.194200  	0.000891    	Utenze_CSA      	;
+ Junction_1580   	611.194200  	0           	                	;
+ Junction_1581   	611.194200  	0           	                	;
+ Junction_1582   	609.656900  	0           	                	;
+ Junction_1583   	611.194200  	0           	                	;
+ Junction_1584   	611.341400  	0           	                	;
+ Junction_1585   	611.341400  	0           	                	;
+ Junction_1586   	611.341400  	0           	                	;
+ Junction_1587   	611.341400  	0.000891    	Utenze_CSA      	;
+ Junction_1588   	611.341400  	0           	                	;
+ Junction_1589   	611.341400  	0.001023    	Utenze_CSA      	;
+ Junction_1590   	611.341400  	0           	                	;
+ Junction_1591   	611.341400  	0           	                	;
+ Junction_1592   	613.081200  	0           	                	;
+ Junction_1593   	609.934800  	0           	                	;
+ Junction_1594   	610.347000  	0.002426    	Utenze_CSA      	;
+ Junction_1595   	610.347000  	0           	                	;
+ Junction_1596   	614.310500  	0           	                	;
+ Junction_1597   	614.310500  	0           	                	;
+ Junction_1598   	617.021700  	0           	                	;
+ Junction_1599   	616.676300  	0.000735    	Utenze_CSA      	;
+ Junction_1600   	617.021700  	0           	                	;
+ Junction_1601   	617.021700  	0           	                	;
+ Junction_1602   	616.676300  	0           	                	;
+ Junction_1603   	615.051300  	0           	                	;
+ Junction_1604   	617.383200  	0           	                	;
+ Junction_1605   	617.383200  	0           	                	;
+ Junction_1946   	605.718100  	0           	                	;
+ Junction_1947   	611.027300  	0           	                	;
+ Junction_1948   	611.027300  	0           	                	;
+ Junction_1949   	610.755300  	0.001726    	Utenze_CSA      	;
+ Junction_1950   	610.755300  	0           	                	;
+ Junction_1974   	603.193600  	0.001023    	Utenze_CSA      	;
+ Junction_1975   	617.021700  	0           	                	;
+ Junction_1976   	617.021700  	0           	                	;
+ Junction_1977   	617.021700  	0           	                	;
+ Junction_1978   	617.021700  	0           	                	;
+ Junction_1979   	617.383200  	0           	                	;
+ Junction_1980   	617.740100  	0           	                	;
+ Junction_1981   	615.826000  	0.000024    	Utenze_CSA      	;
+ Junction_1982   	605.767900  	0           	                	;
+ Junction_2091   	643.713600  	0           	                	;
+ Junction_2092   	615.051300  	0.000164    	Utenze_CSA      	;
+ Junction_2093   	615.051300  	0           	                	;
+ Junction_2094   	613.986900  	0           	                	;
+ Junction_2095   	605.767900  	0           	                	;
+ Junction_2096   	606.116700  	0           	                	;
+ Junction_2097   	600.621100  	0           	                	;
+ Junction_2098   	598.875200  	0           	                	;
+ Junction_2099   	596.740100  	0.004314    	Utenze_CSA      	;
+ Junction_2100   	589.214400  	0.001438    	Utenze_CSA      	;
+ Junction_2101   	601.463300  	0           	                	;
+ Junction_2102   	611.325100  	0           	                	;
+ Junction_2103   	611.325100  	0           	                	;
+ Junction_2104   	612.635700  	0           	                	;
+ Junction_2105   	612.729000  	0           	                	;
+ Junction_2106   	612.729000  	0           	                	;
+ Junction_2107   	606.153900  	0           	                	;
+ Junction_2108   	611.027300  	0.000237    	Utenze_CSA      	;
+ Junction_2109   	600.353300  	0.002972    	Utenze_CSA      	;
+ Junction_2112   	616.583000  	0.002067    	Utenze_CSA      	;
+ Junction_2137   	604.924100  	0           	                	;
+ Junction_2331   	614.310500  	0           	                	;
+ Junction_2332   	610.347000  	0.001789    	Utenze_CSA      	;
+ Junction_2333   	611.341400  	0           	                	;
+ Junction_2334   	613.074200  	0.000320    	Utenze_CSA      	;
+ Junction_2335   	613.074200  	0.000831    	Utenze_CSA      	;
+ Junction_2336   	609.314000  	0           	                	;
+ Junction_2337   	605.173200  	0           	                	;
+ Junction_2338   	606.888400  	0           	                	;
+ Junction_2339   	600.027800  	0           	                	;
+ Junction_2340   	602.538300  	0           	                	;
+ Junction_2341   	593.241500  	0.000891    	Utenze_CSA      	;
+ Junction_2342   	584.544100  	0.000891    	Utenze_CSA      	;
+ Junction_2343   	596.511300  	0           	                	;
+ Junction_2344   	596.511300  	0           	                	;
+ Junction_2345   	595.269500  	0           	                	;
+ Junction_2346   	602.374500  	0           	                	;
+ Junction_2347   	599.299000  	0.001616    	Utenze_CSA      	;
+ Junction_2348   	599.299000  	0           	                	;
+ Junction_2349   	599.300400  	0           	                	;
+ Junction_2350   	600.046800  	0.000891    	Utenze_CSA      	;
+ Junction_2351   	603.893600  	0           	                	;
+ Junction_2352   	602.051900  	0.000447    	Utenze_CSA      	;
+ Junction_2353   	604.763900  	0.000642    	Utenze_CSA      	;
+ Junction_2354   	604.924100  	0           	                	;
+ Junction_2355   	605.855600  	0           	                	;
+ Junction_2356   	607.641800  	0.002077    	Utenze_CSA      	;
+ Junction_2357   	607.641800  	0           	                	;
+ Junction_2358   	607.641800  	0.000351    	Utenze_CSA      	;
+ Junction_2359   	609.756800  	0.000891    	Utenze_CSA      	;
+ Junction_2360   	610.590800  	0.000607    	Utenze_CSA      	;
+ Junction_2361   	612.691300  	0.003483    	Utenze_CSA      	;
+ Junction_2362   	611.871900  	0           	                	;
+ Junction_2363   	614.520600  	0           	                	;
+ Junction_2364   	613.986900  	0.000091    	Utenze_CSA      	;
+ Junction_2365   	613.986900  	0.000959    	Utenze_CSA      	;
+ Junction_2366   	613.986900  	0           	                	;
+ Junction_2367   	613.986900  	0           	                	;
+ Junction_2368   	613.986900  	0           	                	;
+ Junction_2369   	611.038000  	0           	                	;
+ Junction_2370   	610.288900  	0           	                	;
+ Junction_2371   	610.288900  	0           	                	;
+ Junction_2372   	603.266500  	0           	                	;
+ Junction_2373   	605.051200  	0.000670    	Utenze_CSA      	;
+ Junction_2374   	616.867200  	0           	                	;
+ Junction_2375   	613.854100  	0           	                	;
+ Junction_2376   	609.307100  	0           	                	;
+ Junction_2377   	609.307100  	0.001616    	Utenze_CSA      	;
+ Junction_2378   	604.763900  	0           	                	;
+ Junction_2379   	613.080800  	0           	                	;
+ Junction_2380   	612.729000  	0           	                	;
+ Junction_2381   	612.729000  	0           	                	;
+ Junction_2382   	612.729000  	0.000891    	Utenze_CSA      	;
+ Junction_2383   	612.729000  	0.000187    	Utenze_CSA      	;
+ Junction_2384   	612.729000  	0           	                	;
+ Junction_2385   	612.635700  	0           	                	;
+ Junction_2635   	612.691300  	0           	                	;
+ Junction_2636   	617.021700  	0           	                	;
+ Junction_2637   	598.875200  	0           	                	;
+ Junction_2638   	601.463300  	0.000363    	Utenze_CSA      	;
+ Junction_2690   	596.740100  	0           	                	;
+ Junction_2817   	639.830200  	0           	                	;
+ Junction_2818   	639.830200  	0           	                	;
+ Junction_2839   	605.855600  	0           	                	;
+ Junction_3432   	613.986900  	0           	                	;
+ Junction_3433   	613.986900  	0           	                	;
+ Junction_3434   	613.986900  	0           	                	;
+ Junction_3435   	613.986900  	0           	                	;
+ Junction_3436   	613.986900  	0           	                	;
+ Junction_3437   	610.288900  	0           	                	;
+ Junction_3438   	608.202800  	0           	                	;
+ Junction_3439   	608.202800  	0           	                	;
+ Junction_3440   	605.767900  	0           	                	;
+ Junction_3441   	605.767900  	0           	                	;
+ Junction_3442   	605.855600  	0           	                	;
+ Junction_3443   	605.855600  	0           	                	;
+ Junction_3444   	605.855600  	0           	                	;
+ Junction_3445   	609.756800  	0           	                	;
+ Junction_3446   	609.756800  	0           	                	;
+ Junction_3447   	612.691300  	0           	                	;
+ Junction_3448   	612.691300  	0           	                	;
+ Junction_3449   	614.520600  	0           	                	;
+ Junction_3450   	589.214400  	0           	                	;
+ Junction_3451   	597.726100  	0           	                	;
+ Junction_3452   	597.726100  	0           	                	;
+ Junction_3453   	596.511300  	0           	                	;
+ Junction_3454   	599.274200  	0           	                	;
+ Junction_3455   	596.740100  	0.000223    	Utenze_CSA      	;
+ Junction_3456   	599.299000  	0           	                	;
+ Junction_3457   	599.299000  	0           	                	;
+ Junction_3458   	599.299000  	0           	                	;
+ Junction_3459   	600.621100  	0           	                	;
+ Junction_3460   	603.193600  	0           	                	;
+ Junction_3461   	603.193600  	0           	                	;
+ Junction_3462   	603.193600  	0           	                	;
+ Junction_3463   	603.893600  	0           	                	;
+ Junction_3464   	603.893600  	0           	                	;
+ Junction_3465   	605.855600  	0           	                	;
+ Junction_3466   	605.855600  	0           	                	;
+ Junction_3467   	605.855600  	0           	                	;
+ Junction_3468   	606.811800  	0.000891    	Utenze_CSA      	;
+ Junction_3469   	609.307100  	0           	                	;
+ Junction_3470   	609.307100  	0           	                	;
+ Junction_3471   	610.725400  	0           	                	;
+ Junction_3477   	646.465200  	0           	                	;
+ Junction_3478   	602.374500  	0           	                	;
+ Junction_3479   	598.875200  	0           	                	;
+ Junction_3480   	602.538300  	0           	                	;
+ Junction_3481   	602.538300  	0           	                	;
+ Junction_3482   	603.823900  	0           	                	;
+ Junction_3483   	605.173200  	0           	                	;
+ Junction_3484   	606.669800  	0           	                	;
+ Junction_3485   	609.314000  	0           	                	;
+ Junction_3486   	609.934800  	0           	                	;
+ Junction_3487   	614.310500  	0           	                	;
+ Junction_3488   	610.347000  	0           	                	;
+ Junction_3489   	611.341400  	0           	                	;
+ Junction_3490   	611.341400  	0           	                	;
+ Junction_3491   	609.656900  	0           	                	;
+ Junction_3492   	611.194200  	0           	                	;
+ Junction_3493   	611.194200  	0           	                	;
+ Junction_3494   	611.194200  	0           	                	;
+ Junction_3496   	612.635700  	0           	                	;
+ Junction_3497   	612.635700  	0           	                	;
+ Junction_3498   	612.635700  	0           	                	;
+ Junction_3499   	612.635700  	0           	                	;
+ Junction_3500   	612.635700  	0           	                	;
+ Junction_3501   	612.729000  	0           	                	;
+ Junction_3502   	612.729000  	0           	                	;
+ Junction_3503   	612.729000  	0           	                	;
+ Junction_3504   	612.729000  	0           	                	;
+ Junction_3505   	612.729000  	0           	                	;
+ Junction_3506   	613.080800  	0           	                	;
+ Junction_3507   	613.854100  	0           	                	;
+ Junction_3508   	616.867200  	0           	                	;
+ Junction_3509   	616.551800  	0           	                	;
+ Junction_3510   	616.551800  	0           	                	;
+ Junction_3511   	627.533100  	0           	                	;
+ Junction_3512   	639.830200  	0           	                	;
+ Junction_3595   	649.405800  	0           	                	;
+
+[RESERVOIRS]
+;ID              	Head        	Pattern         
+ S_Paterno       	649.000000  	                	;
+
+[TANKS]
+;ID              	Elevation   	InitLevel   	MinLevel    	MaxLevel    	Diameter    	MinVol      	VolCurve        	Overflow
+
+[PIPES]
+;ID              	Node1           	Node2           	Length      	Diameter    	Roughness   	MinorLoss   	Status
+ 1000            	Junction_1368   	Junction_3461   	1.059105    	83.100000   	150.000000  	0.000000    	Open  	;In servizio
+ 1001            	Junction_1365   	Junction_1370   	7.277840    	32.600000   	150.000000  	0.000000    	Open  	;In servizio
+ 1002            	Junction_1367   	Junction_1371   	16.176855   	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1003            	Junction_1369   	Junction_1372   	15.080078   	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1004            	Junction_1373   	Junction_1374   	7.104557    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1005            	Junction_1375   	Junction_3463   	0.729902    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1006            	Junction_1377   	Junction_1378   	0.038493    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1007            	Junction_1379   	Junction_1380   	3.119242    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1008            	Junction_1381   	Junction_3443   	0.296992    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1009            	Junction_1383   	Junction_3442   	0.299399    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1010            	Junction_1385   	Junction_3466   	2.713096    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1011            	Junction_1387   	Junction_1388   	7.289675    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1012            	Junction_1387   	Junction_1389   	3.532992    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1013            	Junction_1390   	Junction_3467   	2.097984    	83.100000   	150.000000  	0.000000    	Open  	;In servizio
+ 1014            	Junction_1392   	Junction_1393   	4.190814    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1015            	Junction_1394   	Junction_3465   	0.453892    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1016            	Junction_1396   	Junction_3469   	0.650626    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1017            	Junction_1398   	Junction_3470   	0.085353    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1018            	Junction_1400   	Junction_1401   	1.933038    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1019            	Junction_1402   	Junction_1403   	3.227177    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1020            	Junction_1402   	Junction_1404   	2.369133    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1021            	Junction_1405   	Junction_1402   	4.262268    	20.400000   	129.000000  	0.000000    	Open  	;In servizio
+ 1022            	Junction_1406   	Junction_3471   	2.123165    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1023            	Junction_1407   	Junction_1408   	1.179989    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1024            	Junction_1409   	Junction_3444   	0.914077    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1025            	Junction_1411   	Junction_1409   	1.017916    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1026            	Junction_1412   	Junction_1413   	0.488990    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1027            	Junction_1414   	Junction_3445   	0.081391    	83.100000   	150.000000  	0.000000    	Open  	;In servizio
+ 1028            	Junction_1416   	Junction_1417   	0.205419    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1029            	Junction_1418   	Junction_3446   	0.111378    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1030            	Junction_1420   	Junction_3441   	0.577417    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1031            	Junction_1420   	Junction_3440   	1.380888    	27.300000   	129.000000  	0.000000    	Open  	;In servizio
+ 1032            	Junction_1423   	Junction_1420   	2.950653    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1033            	Junction_1424   	Junction_1425   	0.485060    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1034            	Junction_1426   	Junction_1427   	1.330266    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1035            	Junction_1428   	Junction_1429   	0.052299    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1036            	Junction_1430   	Junction_1431   	0.407641    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1037            	Junction_1432   	Junction_3437   	0.370712    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1038            	Junction_1434   	Junction_1435   	2.113601    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1039            	Junction_1436   	Junction_1437   	2.317213    	32.600000   	150.000000  	0.000000    	Open  	;In servizio
+ 1040            	Junction_1438   	Junction_1439   	7.125861    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1041            	Junction_1440   	Junction_3438   	3.059331    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1042            	Junction_1441   	Junction_3439   	3.270484    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1043            	Junction_1442   	Junction_1426   	0.306441    	27.300000   	129.000000  	0.000000    	Open  	;In servizio
+ 1044            	Junction_1443   	Junction_1442   	1.140625    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1045            	Junction_1444   	Junction_3447   	0.545248    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1046            	Junction_1446   	Junction_1447   	6.430478    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1047            	Junction_1448   	Junction_1449   	0.851496    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1048            	Junction_1450   	Junction_1451   	1.008579    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1049            	Junction_1449   	Junction_1452   	4.065998    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1050            	Junction_1453   	Junction_1454   	2.765844    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1051            	Junction_1455   	Junction_1453   	7.792242    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1052            	Junction_1456   	Junction_3449   	0.095851    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1053            	Junction_1458   	Junction_3432   	0.795822    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1054            	Junction_1460   	Junction_3436   	0.371269    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1055            	Junction_1462   	Junction_3435   	1.295054    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1056            	Junction_1464   	Junction_3434   	1.180723    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1057            	Junction_1466   	Junction_3433   	0.137323    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1058            	Junction_1468   	Junction_1458   	10.022873   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1059            	Junction_1469   	Junction_1470   	3.695034    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1060            	Junction_1471   	Junction_1472   	3.618822    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1061            	Junction_1473   	Junction_3511   	3.961190    	107.900000  	150.000000  	0.000000    	Open  	;In servizio
+ 1062            	Junction_1474   	Junction_1475   	3.534080    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1063            	Junction_1476   	Junction_3512   	5.141470    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1064            	Junction_1478   	Junction_1479   	5.783249    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1065            	Junction_1480   	Junction_1481   	1.119101    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1066            	Junction_1482   	Junction_1483   	4.877029    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1067            	Junction_1482   	Junction_1484   	4.922975    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1068            	Junction_1485   	Junction_1482   	0.690554    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1069            	Junction_1486   	Junction_1482   	0.700180    	107.900000  	150.000000  	0.000000    	Open  	;In servizio
+ 1070            	Junction_1487   	Junction_1488   	2.008690    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1071            	Junction_1489   	Junction_1487   	0.728314    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1072            	Junction_1490   	Junction_1491   	1.786834    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1074            	Junction_1493   	Junction_1494   	3.179589    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1075            	Junction_1495   	Junction_3509   	0.056453    	107.900000  	150.000000  	0.000000    	Open  	;In servizio
+ 1076            	Junction_1496   	Junction_3508   	0.528573    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1077            	Junction_1498   	Junction_3507   	1.724948    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1078            	Junction_1500   	Junction_1501   	5.205321    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1079            	Junction_1502   	Junction_1503   	3.804414    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1080            	Junction_1504   	Junction_1505   	18.665773   	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1081            	Junction_1506   	Junction_3452   	1.610912    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1082            	Junction_1507   	Junction_1508   	1.492124    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1083            	Junction_1509   	Junction_1392   	2.451560    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1084            	Junction_1510   	Junction_3468   	4.195182    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1085            	Junction_1511   	Junction_1400   	4.088432    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1098            	Junction_3477   	Junction_13     	69.042182   	83.100000   	129.000000  	0.000000    	Closed	;In servizio
+ 1100            	Junction_1502   	Junction_1528   	0.002910    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1101            	Junction_1529   	Junction_1530   	3.131678    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1102            	Junction_1531   	Junction_3478   	0.469361    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1103            	Junction_1533   	Junction_3479   	0.742735    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1104            	Junction_1535   	Junction_3480   	0.323762    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1105            	Junction_1537   	Junction_1538   	3.579182    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1106            	Junction_1539   	Junction_3481   	0.920300    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1107            	Junction_1540   	Junction_1541   	4.830561    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1108            	Junction_1542   	Junction_3482   	0.925796    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1109            	Junction_1544   	Junction_3483   	0.917603    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1110            	Junction_1546   	Junction_3484   	0.782737    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1111            	Junction_1548   	Junction_3485   	0.897325    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1112            	Junction_1550   	Junction_1529   	3.136266    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1113            	Junction_1551   	Junction_1533   	3.193258    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1114            	Junction_1551   	Junction_1535   	8.484763    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1116            	Junction_1554   	Junction_1555   	1.324461    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1117            	Junction_1556   	Junction_3498   	1.299743    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1118            	Junction_1557   	Junction_1558   	1.737185    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1119            	Junction_1559   	Junction_3499   	1.066213    	107.900000  	150.000000  	0.000000    	Open  	;In servizio
+ 1120            	Junction_1560   	Junction_3500   	0.753302    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1121            	Junction_1562   	Junction_3501   	1.124997    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1122            	Junction_1564   	Junction_3502   	0.388264    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1123            	Junction_1566   	Junction_3503   	0.474934    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1124            	Junction_1568   	Junction_3504   	0.785787    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1125            	Junction_1570   	Junction_3505   	0.481554    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1126            	Junction_1572   	Junction_3506   	0.632937    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1127            	Junction_1574   	Junction_1575   	3.083651    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1128            	Junction_1576   	Junction_3494   	0.213207    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1129            	Junction_1577   	Junction_1578   	1.741002    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1130            	Junction_1579   	Junction_3493   	0.258913    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1131            	Junction_1580   	Junction_3492   	0.545914    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1132            	Junction_1582   	Junction_3491   	0.564565    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1133            	Junction_1584   	Junction_3490   	0.530642    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1134            	Junction_1586   	Junction_1587   	2.364824    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1135            	Junction_1588   	Junction_1589   	3.558080    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1136            	Junction_1590   	Junction_3489   	1.134497    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1137            	Junction_1591   	Junction_1592   	7.618745    	41.900000   	129.000000  	0.000000    	Open  	;In servizio
+ 1138            	Junction_1593   	Junction_3486   	0.267892    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1139            	Junction_1594   	Junction_3488   	2.583870    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1140            	Junction_1596   	Junction_3487   	0.186754    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 1141            	Junction_1598   	Junction_1599   	2.243572    	21.700000   	129.000000  	0.000000    	Open  	;In servizio
+ 1142            	Junction_1600   	Junction_1598   	3.847001    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1143            	Junction_1601   	Junction_1602   	1.686132    	21.700000   	129.000000  	0.000000    	Open  	;In servizio
+ 1144            	Junction_1603   	Junction_1601   	12.408443   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1145            	Junction_1511   	Junction_1570   	3.987091    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1402            	Junction_1946   	Junction_1947   	1.499987    	70.300000   	129.000000  	0.000000    	Open  	;Sconosciuto
+ 1403            	Junction_1947   	Junction_1948   	1.462961    	70.300000   	129.000000  	0.000000    	Open  	;Sconosciuto
+ 1404            	Junction_1558   	Junction_1949   	1.499998    	16.000000   	129.000000  	0.000000    	Open  	;Sconosciuto
+ 1405            	Junction_1949   	Junction_1950   	1.499998    	71.000000   	140.000000  	0.000000    	Open  	;Sconosciuto
+ 1425            	Junction_1378   	Junction_3464   	1.044074    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1426            	Junction_1975   	Junction_1976   	1.499987    	83.100000   	129.000000  	0.000000    	Open  	;Sconosciuto
+ 1427            	Junction_1976   	Junction_1977   	1.500033    	83.100000   	129.000000  	0.000000    	Open  	;Sconosciuto
+ 1428            	Junction_1976   	Junction_1978   	1.499966    	83.100000   	129.000000  	0.000000    	Open  	;Sconosciuto
+ 1429            	Junction_1979   	Junction_1604   	1.494795    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1430            	Junction_1980   	Junction_1469   	19.967122   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1431            	Junction_1605   	Junction_1981   	15.165852   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1432            	Junction_1982   	Junction_1423   	1.499652    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1513            	Junction_1476   	Junction_2091   	11.263212   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1514            	Junction_1474   	Junction_1476   	27.573003   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1515            	Junction_1473   	Junction_1474   	46.530917   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1516            	Junction_1469   	Junction_1473   	51.319346   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1517            	Junction_1478   	Junction_1979   	4.966936    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1518            	Junction_1486   	Junction_1478   	5.706935    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1519            	Junction_1485   	Junction_1486   	0.195443    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1520            	Junction_1492   	Junction_1485   	1.960106    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1521            	Junction_1489   	Junction_1492   	0.195331    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1522            	Junction_1495   	Junction_1489   	4.097002    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1523            	Junction_1496   	Junction_1495   	2.264388    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1524            	Junction_1498   	Junction_1496   	53.377863   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1525            	Junction_1500   	Junction_1498   	16.737654   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1526            	Junction_1528   	Junction_1500   	5.187302    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1528            	Junction_2092   	Junction_2093   	1.502982    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1529            	Junction_1468   	Junction_2092   	8.461182    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1530            	Junction_1456   	Junction_1468   	5.018659    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1531            	Junction_1455   	Junction_1456   	2.026062    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1532            	Junction_1444   	Junction_1455   	8.146008    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1533            	Junction_1443   	Junction_1444   	3.315350    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1534            	Junction_2094   	Junction_1466   	0.121148    	16.000000   	129.000000  	0.000000    	Open  	;In servizio
+ 1535            	Junction_1464   	Junction_2094   	1.548543    	16.000000   	129.000000  	0.000000    	Open  	;In servizio
+ 1536            	Junction_1462   	Junction_1464   	2.348221    	16.000000   	129.000000  	0.000000    	Open  	;In servizio
+ 1537            	Junction_1460   	Junction_1462   	1.019697    	16.000000   	129.000000  	0.000000    	Open  	;In servizio
+ 1538            	Junction_1458   	Junction_1460   	1.585288    	16.000000   	129.000000  	0.000000    	Open  	;In servizio
+ 1539            	Junction_1442   	Junction_1424   	4.374776    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1540            	Junction_2095   	Junction_1982   	1.437823    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1541            	Junction_1441   	Junction_2095   	8.619988    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1542            	Junction_1440   	Junction_1441   	0.967686    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1543            	Junction_1438   	Junction_1440   	7.632873    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1544            	Junction_1432   	Junction_1438   	1.013654    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1545            	Junction_1428   	Junction_1432   	2.326541    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1546            	Junction_1446   	Junction_1449   	3.877622    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1547            	Junction_1450   	Junction_1446   	5.562212    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1548            	Junction_1453   	Junction_1450   	8.512298    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1549            	Junction_1418   	Junction_1443   	5.625514    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1550            	Junction_1416   	Junction_1418   	2.101011    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1551            	Junction_1414   	Junction_1416   	3.306158    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1553            	Junction_1409   	Junction_1407   	3.128547    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1554            	Junction_1407   	Junction_2096   	11.297475   	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1555            	Junction_1375   	Junction_1373   	2.153313    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1557            	Junction_1366   	Junction_1364   	0.331278    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1558            	Junction_1368   	Junction_1366   	0.238443    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1559            	Junction_1373   	Junction_1368   	2.246051    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1560            	Junction_1356   	Junction_1507   	4.040405    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1561            	Junction_1358   	Junction_1356   	4.310614    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1562            	Junction_1360   	Junction_1358   	0.441241    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1563            	Junction_2097   	Junction_1360   	12.288722   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1564            	Junction_1352   	Junction_1354   	3.296661    	16.000000   	129.000000  	0.000000    	Open  	;In servizio
+ 1565            	Junction_1350   	Junction_1352   	5.813033    	16.000000   	129.000000  	0.000000    	Open  	;In servizio
+ 1566            	Junction_1551   	Junction_2098   	6.795188    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1567            	Junction_1529   	Junction_1507   	22.178479   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1568            	Junction_1507   	Junction_1350   	6.662354    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1569            	Junction_1335   	Junction_2099   	12.908254   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1570            	Junction_1337   	Junction_1335   	5.033456    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1571            	Junction_1339   	Junction_1337   	2.188767    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1572            	Junction_1341   	Junction_1339   	4.097238    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1573            	Junction_1349   	Junction_1341   	13.331678   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1574            	Junction_1506   	Junction_1349   	2.279485    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1575            	Junction_1343   	Junction_3450   	1.797924    	20.400000   	129.000000  	0.000000    	Open  	;In servizio
+ 1576            	Junction_1533   	Junction_2101   	3.044502    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1577            	Junction_1535   	Junction_1539   	1.849425    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1578            	Junction_2102   	Junction_2103   	1.011440    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1580            	Junction_1546   	Junction_1548   	13.409017   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1581            	Junction_1544   	Junction_1546   	21.884773   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1582            	Junction_1542   	Junction_1544   	11.326253   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1583            	Junction_1540   	Junction_1542   	2.952652    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1584            	Junction_1539   	Junction_1540   	11.721021   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1585            	Junction_1570   	Junction_1568   	2.803943    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1586            	Junction_1552   	Junction_2103   	9.749819    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1587            	Junction_2104   	Junction_1552   	1.266576    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1589            	Junction_1560   	Junction_1559   	4.062551    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1590            	Junction_2105   	Junction_1560   	4.132568    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1592            	Junction_1566   	Junction_2106   	1.962377    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1593            	Junction_1568   	Junction_1566   	7.651326    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1594            	Junction_1596   	Junction_1946   	6.185559    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1595            	Junction_1594   	Junction_1596   	23.886875   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1596            	Junction_1593   	Junction_1594   	30.288115   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1597            	Junction_1590   	Junction_1593   	4.041299    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1598            	Junction_1586   	Junction_1590   	2.043980    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1599            	Junction_1584   	Junction_1586   	3.786733    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1600            	Junction_1582   	Junction_1584   	3.388062    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1601            	Junction_1580   	Junction_1582   	1.010029    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1602            	Junction_1579   	Junction_1580   	8.522376    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1603            	Junction_2103   	Junction_1576   	5.522666    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1604            	Junction_1948   	Junction_2107   	16.819122   	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1605            	Junction_2108   	Junction_2109   	73.885183   	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 1606            	Junction_1947   	Junction_2108   	1.483706    	70.300000   	129.000000  	0.000000    	Open  	;Sconosciuto
+ 1607            	Junction_1576   	Junction_1579   	2.431799    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1609            	Junction_1976   	Junction_2112   	19.647481   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1714            	Junction_1394   	Junction_2137   	2.986290    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1715            	Junction_1385   	Junction_1394   	4.660628    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1716            	Junction_1390   	Junction_1385   	0.477664    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1717            	Junction_1392   	Junction_1390   	5.069610    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1718            	Junction_1396   	Junction_1510   	13.668165   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1719            	Junction_1398   	Junction_1396   	4.513194    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1721            	Junction_1572   	Junction_1511   	6.992828    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 1722            	Junction_1379   	Junction_1550   	2.073329    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 1723            	Junction_1531   	Junction_1379   	2.616282    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2080            	Junction_13     	Junction_14     	1.492559    	83.100000   	129.000000  	0.000000    	Closed	;In servizio
+ 2081            	Junction_14     	S_Paterno       	3.084589    	83.100000   	129.000000  	0.000000    	Closed	;In servizio
+ 2157            	Junction_1597   	Junction_2331   	2.104303    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2158            	Junction_1595   	Junction_2332   	1.494221    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2159            	Junction_1585   	Junction_2333   	0.782570    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2160            	Junction_1583   	Junction_2334   	1.151993    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2161            	Junction_1581   	Junction_2335   	1.190825    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2162            	Junction_1549   	Junction_2336   	2.896440    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2163            	Junction_1545   	Junction_2337   	1.452656    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2164            	Junction_1543   	Junction_2338   	2.442192    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2165            	Junction_1536   	Junction_2339   	3.584818    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2166            	Junction_1534   	Junction_2340   	1.042533    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2167            	Junction_1348   	Junction_2341   	2.614504    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2168            	Junction_2100   	Junction_2342   	29.540193   	41.900000   	129.000000  	0.000000    	Open  	;In servizio
+ 2169            	Junction_1340   	Junction_2343   	0.575758    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2170            	Junction_1338   	Junction_2344   	0.717625    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2171            	Junction_1336   	Junction_2345   	0.919589    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2172            	Junction_1532   	Junction_2346   	0.527130    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2173            	Junction_1357   	Junction_2347   	1.796933    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2174            	Junction_1361   	Junction_2348   	1.932020    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2175            	Junction_1359   	Junction_2349   	1.713369    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2176            	Junction_1363   	Junction_2350   	3.230303    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2177            	Junction_1376   	Junction_2351   	6.850229    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2178            	Junction_1974   	Junction_2352   	15.111114   	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2179            	Junction_1395   	Junction_2353   	1.532419    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2180            	Junction_1384   	Junction_2354   	1.534434    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2181            	Junction_1382   	Junction_2355   	0.704651    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2182            	Junction_1410   	Junction_2356   	1.497910    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2183            	Junction_1413   	Junction_2357   	1.861891    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2184            	Junction_1415   	Junction_2358   	0.563142    	32.600000   	150.000000  	0.000000    	Open  	;In servizio
+ 2185            	Junction_1417   	Junction_2359   	1.836832    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2186            	Junction_1419   	Junction_2360   	0.679301    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2187            	Junction_1445   	Junction_2361   	0.863195    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2188            	Junction_1425   	Junction_2362   	0.534345    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2189            	Junction_1457   	Junction_2363   	1.774899    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2190            	Junction_1459   	Junction_2364   	2.343425    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2191            	Junction_1461   	Junction_2365   	1.970242    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2192            	Junction_1463   	Junction_2366   	1.534341    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2193            	Junction_1465   	Junction_2367   	1.072833    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2194            	Junction_1467   	Junction_2368   	0.670231    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2195            	Junction_1431   	Junction_2369   	0.750407    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2196            	Junction_1429   	Junction_2370   	0.556870    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2197            	Junction_1433   	Junction_2371   	0.751431    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2198            	Junction_1422   	Junction_2372   	3.291613    	27.300000   	129.000000  	0.000000    	Open  	;In servizio
+ 2199            	Junction_1421   	Junction_2373   	0.987343    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2200            	Junction_1497   	Junction_2374   	0.639575    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2201            	Junction_1499   	Junction_2375   	3.615256    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2202            	Junction_1399   	Junction_2376   	0.768872    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2203            	Junction_1397   	Junction_2377   	0.982403    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2204            	Junction_1386   	Junction_2378   	6.023066    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2205            	Junction_1391   	Junction_1387   	3.631624    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2206            	Junction_1573   	Junction_2379   	0.816386    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2207            	Junction_1571   	Junction_2380   	1.073996    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2208            	Junction_1569   	Junction_2381   	1.082722    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2209            	Junction_1567   	Junction_2382   	1.074454    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2210            	Junction_1565   	Junction_2383   	0.683427    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2211            	Junction_1563   	Junction_2384   	0.716358    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2212            	Junction_1561   	Junction_2385   	1.405711    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2458            	Junction_3448   	Junction_1455   	1.530079    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2459            	Junction_1981   	Junction_2636   	3.363749    	21.700000   	129.000000  	0.000000    	Open  	;(5151)
+ 2460            	Junction_1604   	Junction_1480   	0.505483    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 2461            	Junction_1480   	Junction_1980   	0.996249    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 2462            	Junction_1424   	Junction_1430   	14.526500   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2463            	Junction_1430   	Junction_1428   	9.078306    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2464            	Junction_2637   	Junction_2098   	4.202487    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2465            	Junction_2101   	Junction_2638   	3.511712    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 2466            	Junction_2101   	Junction_1531   	21.652581   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2569            	Junction_2098   	Junction_1506   	7.262165    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2586            	Junction_1981   	Junction_2093   	9.860655    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 2587            	Junction_2099   	Junction_3455   	6.164633    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2588            	Junction_2099   	Junction_1508   	12.535696   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2751            	Junction_1477   	Junction_2817   	2.351225    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2752            	Junction_2817   	Junction_2818   	2.246949    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 2760            	Junction_2137   	Junction_1383   	5.525028    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2761            	Junction_1383   	Junction_1381   	0.787332    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2762            	Junction_2137   	Junction_1377   	8.814684    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2763            	Junction_1377   	Junction_1375   	1.480777    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2772            	Junction_2093   	Junction_1603   	2.751083    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 2773            	Junction_1603   	Junction_1572   	10.423866   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ 2809            	Junction_1347   	Junction_1345   	11.684249   	20.400000   	129.000000  	0.000000    	Open  	;In servizio
+ 2810            	Junction_1345   	Junction_1343   	2.697499    	20.400000   	129.000000  	0.000000    	Open  	;In servizio
+ 2811            	Junction_1381   	Junction_1383   	0.787332    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2812            	Junction_1381   	Junction_1411   	2.483589    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2813            	Junction_1383   	Junction_2839   	0.098703    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2814            	Junction_1411   	Junction_1412   	10.106356   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 2815            	Junction_1412   	Junction_1414   	2.523618    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 983             	Junction_1335   	Junction_3454   	0.050784    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 984             	Junction_1337   	Junction_1338   	0.055482    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 985             	Junction_1339   	Junction_3453   	0.144334    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 986             	Junction_1341   	Junction_1342   	1.301342    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 987             	Junction_1343   	Junction_1344   	2.562528    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 988             	Junction_1345   	Junction_1346   	4.570674    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 989             	Junction_1347   	Junction_3451   	0.162725    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 990             	Junction_1349   	Junction_1347   	5.738539    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ 991             	Junction_1350   	Junction_1351   	4.075479    	16.000000   	129.000000  	0.000000    	Open  	;In servizio
+ 992             	Junction_1352   	Junction_1353   	1.175714    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ 993             	Junction_1354   	Junction_1355   	1.647402    	27.300000   	129.000000  	0.000000    	Open  	;In servizio
+ 994             	Junction_1356   	Junction_3456   	2.395761    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 995             	Junction_1358   	Junction_3457   	0.803848    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 996             	Junction_1360   	Junction_3458   	1.799991    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 997             	Junction_1362   	Junction_3459   	0.470637    	20.400000   	150.000000  	0.000000    	Open  	;In servizio
+ 998             	Junction_1364   	Junction_3460   	0.979922    	83.100000   	150.000000  	0.000000    	Open  	;In servizio
+ 999             	Junction_1366   	Junction_3462   	0.870745    	83.100000   	150.000000  	0.000000    	Open  	;In servizio
+ Pipe_100        	Junction_1487   	Junction_3510   	0.530280    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ Pipe_101        	Junction_1559   	Junction_1556   	0.851412    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_102        	Junction_1556   	Junction_2104   	0.110612    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_104        	Junction_1562   	Junction_2105   	0.101242    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_105        	Junction_2106   	Junction_1564   	0.231306    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_106        	Junction_1564   	Junction_1562   	1.111442    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_107        	Junction_1601   	Junction_1600   	3.459616    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_108        	Junction_1600   	Junction_1975   	4.500679    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_470        	Junction_1552   	Junction_3496   	2.096147    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ Pipe_471        	Junction_3497   	Junction_1553   	0.832045    	16.000000   	150.000000  	0.000000    	Open  	;In servizio
+ Pipe_488        	S_Paterno       	Junction_3595   	5.227532    	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_489        	Junction_3595   	Junction_2091   	12.728282   	107.900000  	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_95         	Junction_1364   	Junction_1362   	25.662020   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_96         	Junction_1362   	Junction_2097   	0.101880    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_97         	Junction_1400   	Junction_1406   	21.086575   	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_98         	Junction_1406   	Junction_1398   	8.619664    	83.100000   	129.000000  	0.000000    	Open  	;In servizio
+ Pipe_99         	Junction_1492   	Junction_1487   	0.687166    	107.900000  	150.000000  	0.000000    	Open  	;In servizio
+
+[PUMPS]
+;ID              	Node1           	Node2           	Parameters
+
+[VALVES]
+;ID              	Node1           	Node2           	Diameter    	Type	Setting     	MinorLoss   
+ 536.1           	Junction_3432   	Junction_1459   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 537.1           	Junction_3433   	Junction_1467   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 538.1           	Junction_3434   	Junction_1465   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 539.1           	Junction_3435   	Junction_1463   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 540.1           	Junction_3436   	Junction_1461   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 545             	Junction_3437   	Junction_1433   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 546.1           	Junction_3438   	Junction_1434   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 547.1           	Junction_3439   	Junction_1436   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 548.1           	Junction_3440   	Junction_1422   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 549.1           	Junction_3441   	Junction_1421   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 550.1           	Junction_3442   	Junction_1384   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 551.1           	Junction_3443   	Junction_1382   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 552.1           	Junction_3444   	Junction_1410   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 554.1           	Junction_3445   	Junction_1415   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 556.1           	Junction_3446   	Junction_1419   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 557.1           	Junction_3447   	Junction_1445   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 558.1           	Junction_2635   	Junction_3448   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 559.1           	Junction_3449   	Junction_1457   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 560.1           	Junction_3450   	Junction_2100   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 561.1           	Junction_3451   	Junction_1348   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 562.1           	Junction_3452   	Junction_1504   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 563.1           	Junction_3453   	Junction_1340   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 565.1           	Junction_3454   	Junction_1336   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 566.1           	Junction_3455   	Junction_2690   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 567.1           	Junction_3456   	Junction_1357   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 568.1           	Junction_3457   	Junction_1359   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 569.1           	Junction_3458   	Junction_1361   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 570.1           	Junction_3459   	Junction_1363   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 571.1           	Junction_3460   	Junction_1365   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 572.1           	Junction_3461   	Junction_1369   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 573.1           	Junction_3462   	Junction_1367   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 574.1           	Junction_3463   	Junction_1376   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 575.1           	Junction_3464   	Junction_1974   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 576.1           	Junction_3465   	Junction_1395   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 577.1           	Junction_3466   	Junction_1386   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 578.1           	Junction_3467   	Junction_1391   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 579.1           	Junction_3468   	Junction_1509   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 580.1           	Junction_3469   	Junction_1397   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 581.1           	Junction_3470   	Junction_1399   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 582.1           	Junction_3471   	Junction_1405   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 588.1           	Junction_12     	Junction_3477   	50.000000   	TCV 	0.000000    	0           	;Aerazione/Sfiato
+ 589.1           	Junction_3478   	Junction_1532   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 590.1           	Junction_3479   	Junction_1534   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 591.1           	Junction_3480   	Junction_1536   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 592.1           	Junction_3481   	Junction_1537   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 593.1           	Junction_3482   	Junction_1543   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 594.1           	Junction_3483   	Junction_1545   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 595.1           	Junction_3484   	Junction_1547   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 596.1           	Junction_3485   	Junction_1549   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 597.1           	Junction_3486   	Junction_1591   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 598.1           	Junction_3487   	Junction_1597   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 599.1           	Junction_3488   	Junction_1595   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 600.1           	Junction_3489   	Junction_1588   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 601.1           	Junction_3490   	Junction_1585   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 602.1           	Junction_3491   	Junction_1583   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 603.1           	Junction_3492   	Junction_1581   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 604.1           	Junction_3493   	Junction_1577   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 605.1           	Junction_3494   	Junction_1574   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 606.1           	Junction_3496   	Junction_3497   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 607.1           	Junction_3498   	Junction_1554   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 608.1           	Junction_3499   	Junction_1557   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 609.1           	Junction_3500   	Junction_1561   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 610.1           	Junction_3501   	Junction_1563   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 611.1           	Junction_3502   	Junction_1565   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 612.1           	Junction_3503   	Junction_1567   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 613.1           	Junction_3504   	Junction_1569   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 614.1           	Junction_3505   	Junction_1571   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 616.1           	Junction_3506   	Junction_1573   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 617.1           	Junction_3507   	Junction_1499   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 618.1           	Junction_3508   	Junction_1497   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 619.1           	Junction_3509   	Junction_1493   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 623.1           	Junction_3510   	Junction_1490   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 624.1           	Junction_3511   	Junction_1471   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ 625.1           	Junction_3512   	Junction_1477   	50.000000   	TCV 	0.000000    	0           	;Rubinetto
+ Valve_18        	Junction_1604   	Junction_1605   	50.000000   	PRV 	260.000000  	0           	;HP Modello
+
+[TAGS]
+
+[DEMANDS]
+;Junction        	Demand      	Pattern         	Category
+ Junction_1349   	0.000891    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1349   	0.000927    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1362   	0.000205    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1362   	0.003419    	Utenze_CSA      	;DOM_RES 
+ Junction_1362   	0.000420    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1364   	0.000055    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1364   	0.001306    	Utenze_CSA      	;AGR_ZOOT 
+ Junction_1364   	0.001278    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1400   	0.001214    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1400   	0.000201    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1407   	0.002205    	Utenze_CSA      	;DOM_RES 
+ Junction_1407   	0.000040    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1450   	0.000891    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1450   	0.000891    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1453   	0.000174    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1453   	0.000891    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1484   	0.000131    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1484   	0.000959    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1496   	0.000664    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1496   	0.000891    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1498   	0.001616    	Utenze_CSA      	;DOM_RES 
+ Junction_1498   	0.000697    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1498   	0.000008    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1498   	0.000959    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1498   	0.000991    	Utenze_CSA      	;DOM_RES 
+ Junction_1498   	0.001821    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1507   	0.000139    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1507   	0.000114    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1511   	0.000114    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1511   	0.000335    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1530   	0.000128    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1530   	0.002204    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1541   	0.004250    	Utenze_CSA      	;DOM_RES 
+ Junction_1541   	0.000313    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1546   	0.004661    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1546   	0.001054    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1546   	0.000022    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1578   	0.004464    	Utenze_CSA      	;DOM_RES 
+ Junction_1578   	0.000485    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1587   	0.000891    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1587   	0.000891    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_1587   	0.000891    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_2373   	0.000670    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_2373   	0.000192    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_2383   	0.000187    	Utenze_CSA      	;DOM_NO_RES 
+ Junction_2383   	0.001246    	Utenze_CSA      	;DOM_NO_RES 
+
+[STATUS]
+;ID              	Status/Setting
+
+[PATTERNS]
+;ID              	Multipliers
+;ID              	Multipliers
+ Utenze_CSA      	0.881978    	0.865025    	0.701766    	0.748208    	0.650438    	0.763332    
+ Utenze_CSA      	0.741367    	0.523905    	0.600537    	0.702758    	0.569873    	0.583593    
+ Utenze_CSA      	0.536055    	0.621519    	0.550162    	0.523788    	0.560487    	0.631107    
+ Utenze_CSA      	0.517959    	0.523463    	0.490803    	0.614071    	0.532319    	0.485212    
+ Utenze_CSA      	0.579414    	0.512893    	0.507337    	0.550501    	0.561201    	0.587456    
+ Utenze_CSA      	0.546947    	0.500533    	0.538065    	0.501241    	0.513248    	0.528877    
+ Utenze_CSA      	0.530163    	0.498531    	0.526512    	0.537591    	0.570513    	0.538255    
+ Utenze_CSA      	0.528594    	0.616555    	0.524252    	0.509816    	0.513257    	0.536603    
+ Utenze_CSA      	0.538509    	0.563827    	0.556040    	0.576907    	0.535302    	0.653669    
+ Utenze_CSA      	0.567586    	0.593095    	0.613976    	0.559934    	0.516273    	0.541607    
+ Utenze_CSA      	0.584438    	0.617623    	0.546879    	0.523482    	0.650584    	0.643752    
+ Utenze_CSA      	0.736435    	0.757773    	0.687638    	0.600489    	0.552191    	0.709956    
+ Utenze_CSA      	0.677388    	0.805053    	0.702189    	0.856948    	1.013942    	0.830803    
+ Utenze_CSA      	0.885009    	1.307223    	0.938268    	1.136098    	1.383495    	1.070696    
+ Utenze_CSA      	1.008558    	1.192869    	1.201569    	1.262717    	1.122871    	1.212107    
+ Utenze_CSA      	1.176720    	1.081409    	1.181710    	1.102063    	1.137350    	1.320785    
+ Utenze_CSA      	1.347130    	1.292523    	1.376829    	1.179764    	1.418810    	1.182167    
+ Utenze_CSA      	1.222752    	1.324996    	1.401323    	1.316291    	1.528243    	1.647803    
+ Utenze_CSA      	1.453475    	1.246097    	1.247828    	1.317056    	1.395150    	1.302818    
+ Utenze_CSA      	1.282623    	1.322246    	1.536697    	1.238827    	1.263881    	1.465425    
+ Utenze_CSA      	1.331419    	1.419992    	1.535184    	1.368425    	1.394013    	1.259926    
+ Utenze_CSA      	1.523146    	1.187260    	1.282234    	1.268686    	1.380474    	1.420055    
+ Utenze_CSA      	1.391040    	1.456263    	1.314623    	1.182392    	1.247805    	1.244622    
+ Utenze_CSA      	1.221178    	1.237030    	1.121086    	1.138623    	1.148649    	1.134059    
+ Utenze_CSA      	1.310418    	1.316097    	1.253034    	1.312784    	1.200685    	0.950714    
+ Utenze_CSA      	1.420411    	1.117214    	1.023337    	1.237978    	1.150178    	1.153431    
+ Utenze_CSA      	1.074322    	1.391887    	1.026590    	1.156396    	1.594990    	1.127094    
+ Utenze_CSA      	1.003350    	0.933376    	1.066631    	1.093514    	0.972470    	1.128597    
+ Utenze_CSA      	1.631373    	1.552552    	1.401775    	1.010658    	0.990841    	0.840302    
+ Utenze_CSA      	0.935127    	1.089000    	0.708265    	1.060051    	0.994389    	1.004975    
+ Utenze_CSA      	1.041143    	0.927137    	1.118697    	1.120703    	0.881331    	1.033768    
+ Utenze_CSA      	0.889502    	1.135431    	1.263078    	1.012284    	0.946969    	1.113659    
+ Utenze_CSA      	1.100801    	0.979393    	0.982670    	1.098431    	1.034947    	1.310691    
+ Utenze_CSA      	1.109131    	0.991969    	1.121572    	1.261333    	1.096683    	1.076940    
+ Utenze_CSA      	1.219065    	0.961342    	1.219227    	1.060431    	1.300731    	1.007005    
+ Utenze_CSA      	1.158692    	1.090565    	0.978902    	0.854845    	0.944036    	1.218088    
+ Utenze_CSA      	1.276661    	0.872894    	1.107843    	1.132798    	1.027419    	0.969468    
+ Utenze_CSA      	1.186133    	1.010257    	0.952709    	1.056189    	1.103317    	1.096874    
+ Utenze_CSA      	1.259093    	1.022152    	1.370702    	1.283016    	1.324190    	1.407774    
+ Utenze_CSA      	1.299416    	1.295024    	1.011274    	1.114091    	1.037827    	1.081557    
+ Utenze_CSA      	1.232176    	1.166499    	1.115083    	1.161275    	1.160602    	1.596637    
+ Utenze_CSA      	1.614036    	1.346938    	1.345471    	1.178993    	1.043978    	1.236542    
+ Utenze_CSA      	1.087173    	1.160952    	1.037628    	1.032166    	1.037147    	1.237962    
+ Utenze_CSA      	1.150213    	1.164472    	1.257477    	1.332522    	1.041153    	1.261344    
+ Utenze_CSA      	1.169488    	1.171329    	1.084281    	1.122051    	0.943385    	0.930764    
+ Utenze_CSA      	0.715202    	0.885156    	0.987900    	0.825447    	0.900210    	0.802111    
+ Utenze_CSA      	1.043030    	0.706638    	0.670384    	0.776642    	0.710008    	0.711199    
+ Utenze_CSA      	0.774893    	0.726116    	0.661688    	0.628915    	0.825149    	0.702081    
+;
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+ Perdita_cost    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    	1.000000    
+;
+ Utenze_D10_Madonnelle	0.350375    	0.371957    	0.210473    	0.223261    	0.220524    	0.439604    
+ Utenze_D10_Madonnelle	0.322149    	0.261948    	0.307857    	0.220094    	0.320643    	0.290778    
+ Utenze_D10_Madonnelle	0.248048    	0.386019    	0.293154    	0.252652    	0.326580    	0.345408    
+ Utenze_D10_Madonnelle	0.212467    	0.217962    	0.253361    	0.397906    	0.214886    	0.205359    
+ Utenze_D10_Madonnelle	0.362509    	0.216068    	0.223079    	0.235998    	0.210317    	0.352103    
+ Utenze_D10_Madonnelle	0.207218    	0.207536    	0.260609    	0.213863    	0.202586    	0.198503    
+ Utenze_D10_Madonnelle	0.204916    	0.237518    	0.199537    	0.207768    	0.290282    	0.215074    
+ Utenze_D10_Madonnelle	0.220941    	0.292978    	0.204906    	0.214739    	0.211722    	0.208725    
+ Utenze_D10_Madonnelle	0.212189    	0.242217    	0.274027    	0.227118    	0.207953    	0.273596    
+ Utenze_D10_Madonnelle	0.231293    	0.238654    	0.308731    	0.331836    	0.217144    	0.210021    
+ Utenze_D10_Madonnelle	0.281186    	0.209237    	0.254468    	0.230247    	0.414262    	0.388099    
+ Utenze_D10_Madonnelle	0.399884    	0.375997    	0.220677    	0.213664    	0.216794    	0.218097    
+ Utenze_D10_Madonnelle	0.429666    	0.275696    	0.279618    	0.504786    	0.584904    	0.278766    
+ Utenze_D10_Madonnelle	0.591405    	0.972544    	0.593989    	0.606640    	0.632603    	0.326667    
+ Utenze_D10_Madonnelle	0.510555    	0.599910    	0.818309    	0.900000    	0.724511    	0.720842    
+ Utenze_D10_Madonnelle	0.535205    	0.462822    	0.331835    	0.621480    	0.701414    	0.572833    
+ Utenze_D10_Madonnelle	0.908599    	0.588235    	0.547862    	0.629657    	0.943465    	0.329950    
+ Utenze_D10_Madonnelle	0.587624    	0.790668    	0.743813    	0.732844    	0.705210    	0.926680    
+ Utenze_D10_Madonnelle	0.792621    	0.546557    	0.705865    	0.664707    	0.637810    	0.492364    
+ Utenze_D10_Madonnelle	0.500549    	0.612699    	1.042167    	0.726840    	0.561212    	0.838059    
+ Utenze_D10_Madonnelle	0.704134    	0.526320    	1.077910    	0.637078    	0.941903    	0.527044    
+ Utenze_D10_Madonnelle	0.721259    	0.506930    	0.473724    	0.500712    	0.946421    	0.580284    
+ Utenze_D10_Madonnelle	0.685826    	1.005004    	0.661183    	0.302773    	0.687228    	0.414137    
+ Utenze_D10_Madonnelle	0.287442    	0.543789    	0.442919    	0.829643    	0.457778    	0.364568    
+ Utenze_D10_Madonnelle	0.950063    	0.693524    	0.581001    	0.327240    	0.600328    	0.248675    
+ Utenze_D10_Madonnelle	0.614192    	0.649881    	0.418681    	0.739073    	0.637889    	0.479287    
+ Utenze_D10_Madonnelle	0.468799    	0.765335    	0.590108    	0.625894    	0.850000    	0.715894    
+ Utenze_D10_Madonnelle	0.506469    	0.307774    	0.465591    	0.325995    	0.344984    	0.550040    
+ Utenze_D10_Madonnelle	0.823489    	0.811076    	0.702199    	0.320785    	0.665480    	0.374474    
+ Utenze_D10_Madonnelle	0.388611    	0.537503    	0.261882    	0.304975    	0.536547    	0.433753    
+ Utenze_D10_Madonnelle	0.423810    	0.375233    	0.559907    	0.779730    	0.492061    	0.305984    
+ Utenze_D10_Madonnelle	0.367868    	0.486551    	0.925055    	0.213953    	0.289437    	0.480966    
+ Utenze_D10_Madonnelle	0.602660    	0.478952    	0.607627    	0.751273    	0.597360    	0.812743    
+ Utenze_D10_Madonnelle	0.610420    	0.516275    	0.570853    	0.747007    	0.484320    	0.429655    
+ Utenze_D10_Madonnelle	0.671102    	0.644383    	0.578352    	0.649393    	1.067755    	0.724671    
+ Utenze_D10_Madonnelle	0.796039    	0.697477    	0.420412    	0.246485    	0.408077    	0.647864    
+ Utenze_D10_Madonnelle	0.339531    	0.290579    	0.452242    	0.406633    	0.336992    	0.369562    
+ Utenze_D10_Madonnelle	0.278076    	0.433873    	0.407726    	0.443356    	0.506341    	0.445820    
+ Utenze_D10_Madonnelle	0.621428    	0.262817    	0.312546    	0.539300    	0.699563    	0.792873    
+ Utenze_D10_Madonnelle	1.135228    	0.641143    	0.634096    	0.693113    	0.483291    	0.603835    
+ Utenze_D10_Madonnelle	0.751787    	0.644710    	0.618015    	0.602469    	0.406461    	0.655273    
+ Utenze_D10_Madonnelle	0.937547    	0.473918    	0.866370    	0.577963    	0.411800    	0.702996    
+ Utenze_D10_Madonnelle	0.620713    	0.630527    	0.661377    	0.508906    	0.594640    	0.916531    
+ Utenze_D10_Madonnelle	0.448150    	0.516370    	0.435170    	0.575353    	0.368396    	0.490674    
+ Utenze_D10_Madonnelle	0.846064    	0.838993    	0.495958    	0.410314    	0.276691    	0.454308    
+ Utenze_D10_Madonnelle	0.287652    	0.223433    	0.432030    	0.251457    	0.399522    	0.300291    
+ Utenze_D10_Madonnelle	0.625858    	0.259918    	0.274934    	0.288500    	0.355441    	0.271595    
+ Utenze_D10_Madonnelle	0.405372    	0.235872    	0.207231    	0.196474    	0.550750    	0.186484    
+;
+ Utenze_D02_Ville	0.326018    	0.320156    	0.321406    	0.237268    	0.215845    	0.228906    
+ Utenze_D02_Ville	0.153906    	0.197268    	0.250630    	0.227814    	0.304768    	0.268906    
+ Utenze_D02_Ville	0.241018    	0.253518    	0.273906    	0.317268    	0.288518    	0.327268    
+ Utenze_D02_Ville	0.304768    	0.297268    	0.273130    	0.283906    	0.262268    	0.218130    
+ Utenze_D02_Ville	0.202268    	0.245156    	0.258518    	0.243906    	0.313130    	0.342347    
+ Utenze_D02_Ville	0.279380    	0.391018    	0.361018    	0.374380    	0.344207    	0.351018    
+ Utenze_D02_Ville	0.350630    	0.339380    	0.371018    	0.379380    	0.423130    	0.415630    
+ Utenze_D02_Ville	0.469380    	0.534380    	0.564380    	0.532742    	0.541880    	0.593130    
+ Utenze_D02_Ville	0.635242    	0.623130    	0.690242    	0.711880    	0.685630    	0.709768    
+ Utenze_D02_Ville	0.660630    	0.689380    	0.691097    	0.700630    	0.695242    	0.731474    
+ Utenze_D02_Ville	0.766758    	0.695630    	0.677742    	0.701492    	0.670630    	0.645242    
+ Utenze_D02_Ville	0.659380    	0.684380    	0.683130    	0.674380    	0.662268    	0.728812    
+ Utenze_D02_Ville	0.793736    	0.784172    	0.793114    	0.883895    	0.849375    	0.808462    
+ Utenze_D02_Ville	0.904647    	0.996406    	0.988597    	1.088629    	1.126709    	1.139508    
+ Utenze_D02_Ville	0.953565    	1.055459    	1.019052    	1.086260    	1.115789    	1.082487    
+ Utenze_D02_Ville	1.052742    	1.058208    	1.126438    	1.125156    	1.120314    	1.140036    
+ Utenze_D02_Ville	1.168904    	1.100338    	1.142347    	1.216147    	1.159768    	1.332922    
+ Utenze_D02_Ville	1.347742    	1.304380    	1.410508    	1.796880    	1.820932    	2.314380    
+ Utenze_D02_Ville	2.285968    	2.130287    	1.754815    	1.620578    	1.561777    	1.525599    
+ Utenze_D02_Ville	1.433518    	1.311707    	1.201880    	1.091647    	1.007268    	1.080242    
+ Utenze_D02_Ville	1.260630    	1.501880    	1.838970    	2.196794    	2.388906    	2.437353    
+ Utenze_D02_Ville	2.630030    	2.792656    	2.675845    	2.758130    	2.684798    	2.760630    
+ Utenze_D02_Ville	2.629847    	2.588130    	2.560457    	2.581880    	2.568518    	2.590630    
+ Utenze_D02_Ville	2.633518    	2.776018    	2.855630    	3.054897    	3.085932    	3.156958    
+ Utenze_D02_Ville	3.239380    	3.111880    	3.113258    	3.066406    	2.932268    	2.489768    
+ Utenze_D02_Ville	2.268530    	1.744768    	1.634508    	1.454595    	1.438906    	1.353618    
+ Utenze_D02_Ville	1.351040    	1.303904    	1.308518    	1.245781    	1.276749    	1.229868    
+ Utenze_D02_Ville	1.225036    	1.178906    	1.111492    	1.143518    	1.149247    	1.014479    
+ Utenze_D02_Ville	1.029536    	0.916316    	0.797951    	0.738518    	0.851018    	0.869119    
+ Utenze_D02_Ville	0.876794    	0.872471    	0.788992    	0.854205    	0.842603    	0.796258    
+ Utenze_D02_Ville	0.696880    	0.613992    	0.636714    	0.634768    	0.685730    	0.626018    
+ Utenze_D02_Ville	0.589768    	0.580630    	0.485242    	0.479039    	0.374316    	0.295845    
+ Utenze_D02_Ville	0.309682    	0.268397    	0.284682    	0.348130    	0.393992    	0.436179    
+ Utenze_D02_Ville	0.451880    	0.525630    	0.538647    	0.571147    	0.610730    	0.611648    
+ Utenze_D02_Ville	0.622869    	0.634119    	0.722480    	0.643314    	0.702091    	0.713258    
+ Utenze_D02_Ville	0.793108    	0.587182    	0.586816    	0.583432    	0.648384    	0.625036    
+ Utenze_D02_Ville	0.662982    	0.723455    	0.727139    	0.691640    	0.638158    	0.702536    
+ Utenze_D02_Ville	0.679621    	0.725093    	0.697509    	0.749815    	0.765216    	0.736343    
+ Utenze_D02_Ville	0.647898    	0.732876    	0.684175    	0.664897    	0.647593    	0.624705    
+ Utenze_D02_Ville	0.642562    	0.673314    	0.619458    	0.620376    	0.555133    	0.429847    
+ Utenze_D02_Ville	0.555062    	0.609539    	0.560566    	0.605566    	0.725390    	0.615955    
+ Utenze_D02_Ville	0.661958    	0.644150    	0.688548    	0.693432    	0.691203    	0.770955    
+ Utenze_D02_Ville	0.718455    	0.732678    	0.699316    	0.724929    	0.718760    	0.702347    
+ Utenze_D02_Ville	0.734316    	0.725682    	0.795846    	0.775078    	0.870216    	0.779037    
+ Utenze_D02_Ville	0.803514    	0.804954    	0.785758    	0.805349    	0.778114    	0.803307    
+ Utenze_D02_Ville	0.755062    	0.738760    	0.749148    	0.754539    	0.705566    	0.686816    
+ Utenze_D02_Ville	0.683066    	0.707982    	0.660841    	0.676816    	0.658066    	0.680566    
+ Utenze_D02_Ville	0.670566    	0.680566    	0.691816    	0.680566    	0.652898    	0.674316    
+;
+ Perdita_D02_Ville	1.010000    	1.009000    	1.009000    	1.010000    	1.007000    	1.009000    
+ Perdita_D02_Ville	1.009000    	1.010000    	1.010000    	1.003000    	1.010000    	1.009000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.009000    	1.010000    	1.010000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.010000    	1.009000    	1.010000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.009000    	1.010000    	1.009000    	1.010000    	0.994000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.010000    	1.010000    	1.008000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	0.994000    	1.010000    	1.010000    	0.988000    
+ Perdita_D02_Ville	1.003000    	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    	1.000000    
+ Perdita_D02_Ville	0.985000    	0.976000    	0.988000    	0.987000    	0.994000    	0.984000    
+ Perdita_D02_Ville	1.003000    	1.009000    	0.994000    	0.992000    	0.942000    	0.998000    
+ Perdita_D02_Ville	0.997000    	0.942000    	0.978000    	0.997000    	0.996000    	0.979000    
+ Perdita_D02_Ville	1.010000    	0.995000    	0.991000    	1.009000    	1.003000    	1.002000    
+ Perdita_D02_Ville	0.993000    	0.981000    	0.994000    	0.969000    	1.010000    	0.976000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.003000    	1.010000    	1.008000    	1.010000    
+ Perdita_D02_Ville	0.990000    	0.997000    	0.997000    	0.990000    	0.946000    	0.951000    
+ Perdita_D02_Ville	1.010000    	1.008000    	1.010000    	0.948000    	1.010000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.013000    	1.009000    	1.009000    	1.011000    
+ Perdita_D02_Ville	0.977000    	1.009000    	1.007000    	1.010000    	0.991000    	1.010000    
+ Perdita_D02_Ville	0.994000    	1.010000    	1.008000    	1.010000    	1.010000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.010000    	0.998000    	1.008000    	0.995000    
+ Perdita_D02_Ville	1.010000    	1.010000    	0.998000    	1.009000    	1.010000    	1.010000    
+ Perdita_D02_Ville	0.888000    	1.010000    	0.998000    	1.007000    	1.009000    	1.000000    
+ Perdita_D02_Ville	1.007000    	0.993000    	1.010000    	1.014000    	0.989000    	1.000000    
+ Perdita_D02_Ville	1.002000    	1.009000    	1.010000    	1.010000    	0.959000    	1.001000    
+ Perdita_D02_Ville	1.004000    	0.980000    	1.000000    	1.010000    	1.010000    	0.999000    
+ Perdita_D02_Ville	1.009000    	0.970000    	1.010000    	0.986000    	0.984000    	0.951000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.018000    	1.010000    	0.966000    	1.010000    
+ Perdita_D02_Ville	1.010000    	1.010000    	1.010000    	0.969000    	1.006000    	1.007000    
+ Perdita_D02_Ville	1.008000    	1.003000    	1.008000    	1.010000    	1.010000    	0.995000    
+ Perdita_D02_Ville	1.010000    	1.010000    	0.998000    	0.998000    	0.966000    	1.004000    
+ Perdita_D02_Ville	0.999000    	0.999000    	0.999000    	1.002000    	0.999000    	0.998000    
+ Perdita_D02_Ville	1.012000    	1.008000    	1.006000    	1.008000    	0.983000    	1.002000    
+ Perdita_D02_Ville	1.005000    	1.006000    	0.989000    	0.973000    	0.991000    	1.002000    
+ Perdita_D02_Ville	1.005000    	1.006000    	1.005000    	0.997000    	0.967000    	1.006000    
+ Perdita_D02_Ville	1.004000    	0.985000    	1.002000    	0.998000    	1.006000    	1.006000    
+ Perdita_D02_Ville	1.000000    	1.002000    	0.995000    	0.985000    	1.012000    	0.994000    
+ Perdita_D02_Ville	1.000000    	0.996000    	1.006000    	1.006000    	0.922000    	1.006000    
+ Perdita_D02_Ville	0.995000    	0.996000    	0.991000    	1.008000    	1.001000    	1.006000    
+ Perdita_D02_Ville	1.006000    	1.007000    	1.006000    	0.995000    	0.997000    	0.994000    
+ Perdita_D02_Ville	1.006000    	0.968000    	0.923000    	0.952000    	0.967000    	0.997000    
+ Perdita_D02_Ville	0.993000    	0.976000    	0.998000    	0.993000    	0.988000    	0.982000    
+ Perdita_D02_Ville	1.000000    	0.997000    	1.004000    	0.996000    	1.006000    	1.006000    
+ Perdita_D02_Ville	1.006000    	1.005000    	0.999000    	1.006000    	1.006000    	1.006000    
+ Perdita_D02_Ville	1.006000    	1.006000    	1.006000    	1.006000    	1.004000    	1.006000    
+;
+ Utenze_D07b_Gallo_S	0.814671    	0.869936    	0.629699    	0.823595    	0.607779    	0.580060    
+ Utenze_D07b_Gallo_S	0.553352    	0.259936    	0.240742    	0.546187    	0.200357    	0.306833    
+ Utenze_D07b_Gallo_S	0.185411    	0.168060    	0.177905    	0.197907    	0.228681    	0.188694    
+ Utenze_D07b_Gallo_S	0.279815    	0.249209    	0.164171    	0.179145    	0.190327    	0.167630    
+ Utenze_D07b_Gallo_S	0.172672    	0.193315    	0.186867    	0.183158    	0.358277    	0.188163    
+ Utenze_D07b_Gallo_S	0.213447    	0.188138    	0.238499    	0.169527    	0.238640    	0.289362    
+ Utenze_D07b_Gallo_S	0.254370    	0.177950    	0.170714    	0.189732    	0.188762    	0.211313    
+ Utenze_D07b_Gallo_S	0.211978    	0.334997    	0.207066    	0.158357    	0.179578    	0.230024    
+ Utenze_D07b_Gallo_S	0.158564    	0.223453    	0.165453    	0.350251    	0.253196    	0.511815    
+ Utenze_D07b_Gallo_S	0.346974    	0.352114    	0.260720    	0.174330    	0.201950    	0.271348    
+ Utenze_D07b_Gallo_S	0.239774    	0.329730    	0.187634    	0.263833    	0.310154    	0.249329    
+ Utenze_D07b_Gallo_S	0.556018    	0.534982    	0.536265    	0.465291    	0.182227    	0.725809    
+ Utenze_D07b_Gallo_S	0.391287    	0.876813    	0.407264    	0.375334    	0.811764    	0.731830    
+ Utenze_D07b_Gallo_S	0.609167    	0.997522    	0.771316    	0.838366    	1.658124    	1.268094    
+ Utenze_D07b_Gallo_S	1.103669    	1.361034    	1.062198    	0.814073    	1.302387    	0.931798    
+ Utenze_D07b_Gallo_S	1.321592    	1.158296    	1.572710    	1.039418    	0.661347    	1.361508    
+ Utenze_D07b_Gallo_S	1.010169    	1.326225    	1.415329    	1.248859    	1.061274    	1.187637    
+ Utenze_D07b_Gallo_S	1.106013    	1.052711    	1.236772    	1.124293    	1.520753    	1.358927    
+ Utenze_D07b_Gallo_S	1.421287    	1.202910    	1.011933    	1.345023    	1.351716    	1.817802    
+ Utenze_D07b_Gallo_S	1.424242    	1.331606    	1.470441    	1.190494    	0.910609    	1.704275    
+ Utenze_D07b_Gallo_S	1.231498    	1.407287    	1.364858    	1.327521    	1.170659    	1.239855    
+ Utenze_D07b_Gallo_S	1.335226    	0.957316    	1.393325    	1.329617    	1.036686    	1.576287    
+ Utenze_D07b_Gallo_S	1.281101    	1.127706    	1.167881    	1.061686    	0.684376    	0.933318    
+ Utenze_D07b_Gallo_S	1.369579    	1.064307    	0.723905    	0.744280    	0.745307    	0.890011    
+ Utenze_D07b_Gallo_S	0.949537    	0.987171    	0.879642    	1.431296    	0.843154    	0.949848    
+ Utenze_D07b_Gallo_S	1.914329    	0.925096    	0.920720    	1.200686    	0.777232    	1.090848    
+ Utenze_D07b_Gallo_S	1.176699    	1.491648    	0.830247    	1.017285    	1.213449    	0.730738    
+ Utenze_D07b_Gallo_S	0.800256    	0.833190    	0.918814    	1.160394    	0.887974    	1.097605    
+ Utenze_D07b_Gallo_S	1.739646    	2.088837    	1.663705    	1.001575    	0.785162    	0.824222    
+ Utenze_D07b_Gallo_S	0.847672    	0.619059    	0.473289    	1.274242    	0.864338    	1.007744    
+ Utenze_D07b_Gallo_S	1.043963    	1.028875    	0.966860    	0.883913    	0.778697    	1.272844    
+ Utenze_D07b_Gallo_S	0.738376    	1.339133    	1.345157    	1.033288    	1.243109    	0.953207    
+ Utenze_D07b_Gallo_S	0.893630    	0.910311    	0.832651    	0.999534    	0.998246    	1.315200    
+ Utenze_D07b_Gallo_S	1.115060    	0.827664    	1.304443    	1.585655    	1.311575    	1.211033    
+ Utenze_D07b_Gallo_S	1.531790    	0.758852    	1.341846    	1.087306    	0.970773    	0.760263    
+ Utenze_D07b_Gallo_S	0.860417    	1.092480    	0.695499    	0.748804    	0.796806    	1.389059    
+ Utenze_D07b_Gallo_S	1.561335    	0.841854    	1.095025    	1.163206    	1.110004    	0.909409    
+ Utenze_D07b_Gallo_S	1.590546    	0.894633    	0.860695    	1.005935    	1.285613    	1.306522    
+ Utenze_D07b_Gallo_S	1.410467    	1.198996    	1.978209    	1.394883    	1.571846    	1.560736    
+ Utenze_D07b_Gallo_S	1.013714    	1.514891    	0.971619    	0.854938    	1.223382    	0.758324    
+ Utenze_D07b_Gallo_S	1.280144    	1.119293    	1.017528    	1.202636    	1.310373    	2.189090    
+ Utenze_D07b_Gallo_S	1.933086    	1.810817    	1.269056    	1.177594    	1.071673    	1.302786    
+ Utenze_D07b_Gallo_S	1.242556    	1.099032    	1.092530    	1.136932    	1.031344    	1.419319    
+ Utenze_D07b_Gallo_S	1.563350    	1.715488    	1.805334    	1.616331    	1.332302    	1.488617    
+ Utenze_D07b_Gallo_S	1.233504    	0.746998    	1.099320    	1.301175    	1.051612    	0.854951    
+ Utenze_D07b_Gallo_S	0.536935    	0.918669    	1.139576    	0.623480    	0.850906    	0.772761    
+ Utenze_D07b_Gallo_S	0.877620    	0.597722    	0.474207    	0.591394    	0.384773    	0.597644    
+ Utenze_D07b_Gallo_S	0.625832    	0.527317    	0.435715    	0.555430    	0.610031    	0.580144    
+;
+ Perdita_D07b_Gallo_S	1.005000    	1.002000    	1.006000    	1.009000    	1.009000    	1.014000    
+ Perdita_D07b_Gallo_S	1.011000    	1.021000    	1.020000    	1.014000    	1.022000    	1.021000    
+ Perdita_D07b_Gallo_S	1.022000    	1.022000    	1.017000    	1.020000    	1.019000    	1.020000    
+ Perdita_D07b_Gallo_S	1.021000    	1.021000    	1.018000    	1.022000    	1.022000    	1.022000    
+ Perdita_D07b_Gallo_S	1.022000    	1.022000    	1.022000    	1.022000    	1.020000    	1.022000    
+ Perdita_D07b_Gallo_S	1.021000    	1.022000    	1.017000    	1.022000    	1.019000    	1.021000    
+ Perdita_D07b_Gallo_S	1.022000    	1.021000    	1.022000    	1.021000    	1.021000    	1.020000    
+ Perdita_D07b_Gallo_S	1.019000    	1.020000    	1.022000    	1.022000    	1.020000    	1.022000    
+ Perdita_D07b_Gallo_S	1.023000    	1.021000    	1.021000    	1.020000    	1.019000    	1.017000    
+ Perdita_D07b_Gallo_S	1.015000    	1.022000    	1.021000    	1.017000    	1.020000    	1.020000    
+ Perdita_D07b_Gallo_S	1.021000    	1.020000    	1.020000    	1.018000    	1.019000    	1.017000    
+ Perdita_D07b_Gallo_S	1.014000    	1.011000    	1.010000    	1.014000    	1.017000    	1.009000    
+ Perdita_D07b_Gallo_S	1.020000    	1.005000    	1.015000    	1.014000    	1.011000    	1.012000    
+ Perdita_D07b_Gallo_S	1.011000    	1.004000    	1.002000    	0.987000    	0.973000    	0.997000    
+ Perdita_D07b_Gallo_S	0.993000    	1.000000    	0.993000    	0.996000    	0.994000    	0.992000    
+ Perdita_D07b_Gallo_S	0.999000    	0.994000    	1.001000    	1.006000    	0.997000    	0.975000    
+ Perdita_D07b_Gallo_S	0.995000    	0.988000    	0.974000    	0.986000    	1.004000    	0.991000    
+ Perdita_D07b_Gallo_S	1.002000    	0.997000    	0.996000    	0.993000    	0.976000    	0.987000    
+ Perdita_D07b_Gallo_S	0.983000    	0.977000    	0.982000    	0.983000    	0.978000    	0.985000    
+ Perdita_D07b_Gallo_S	0.980000    	0.986000    	0.998000    	0.999000    	0.974000    	0.987000    
+ Perdita_D07b_Gallo_S	0.990000    	0.985000    	0.986000    	0.986000    	1.010000    	0.994000    
+ Perdita_D07b_Gallo_S	0.975000    	1.002000    	0.997000    	0.990000    	0.997000    	0.983000    
+ Perdita_D07b_Gallo_S	0.976000    	0.994000    	0.978000    	1.001000    	0.996000    	0.985000    
+ Perdita_D07b_Gallo_S	0.992000    	0.976000    	1.009000    	1.009000    	1.001000    	1.005000    
+ Perdita_D07b_Gallo_S	1.003000    	0.981000    	0.995000    	0.988000    	1.002000    	0.990000    
+ Perdita_D07b_Gallo_S	0.975000    	0.995000    	0.996000    	0.990000    	1.011000    	1.001000    
+ Perdita_D07b_Gallo_S	0.993000    	0.987000    	1.000000    	1.001000    	1.000000    	0.991000    
+ Perdita_D07b_Gallo_S	0.995000    	0.976000    	1.004000    	0.997000    	1.002000    	0.985000    
+ Perdita_D07b_Gallo_S	0.952000    	0.966000    	0.991000    	1.002000    	1.014000    	1.002000    
+ Perdita_D07b_Gallo_S	1.000000    	1.012000    	1.003000    	0.996000    	1.000000    	0.996000    
+ Perdita_D07b_Gallo_S	0.994000    	0.991000    	0.992000    	1.006000    	0.994000    	0.997000    
+ Perdita_D07b_Gallo_S	0.993000    	0.979000    	0.993000    	0.990000    	0.995000    	0.996000    
+ Perdita_D07b_Gallo_S	1.008000    	0.996000    	0.999000    	0.999000    	1.001000    	0.999000    
+ Perdita_D07b_Gallo_S	0.995000    	0.991000    	0.985000    	0.981000    	0.993000    	0.991000    
+ Perdita_D07b_Gallo_S	0.995000    	1.003000    	0.997000    	0.995000    	0.994000    	1.005000    
+ Perdita_D07b_Gallo_S	0.982000    	1.001000    	1.006000    	1.010000    	0.994000    	0.988000    
+ Perdita_D07b_Gallo_S	0.995000    	1.000000    	0.994000    	0.981000    	1.001000    	0.993000    
+ Perdita_D07b_Gallo_S	0.986000    	1.000000    	0.996000    	0.986000    	0.993000    	0.987000    
+ Perdita_D07b_Gallo_S	0.988000    	0.989000    	0.979000    	0.980000    	0.979000    	0.981000    
+ Perdita_D07b_Gallo_S	0.992000    	0.993000    	0.999000    	0.996000    	0.988000    	0.996000    
+ Perdita_D07b_Gallo_S	0.975000    	0.992000    	1.005000    	0.986000    	0.980000    	0.968000    
+ Perdita_D07b_Gallo_S	0.989000    	0.978000    	0.973000    	1.005000    	0.987000    	0.983000    
+ Perdita_D07b_Gallo_S	0.987000    	0.970000    	0.991000    	0.993000    	0.992000    	0.976000    
+ Perdita_D07b_Gallo_S	0.975000    	0.982000    	0.979000    	0.978000    	0.985000    	0.991000    
+ Perdita_D07b_Gallo_S	0.997000    	1.001000    	0.992000    	0.993000    	1.006000    	1.007000    
+ Perdita_D07b_Gallo_S	1.009000    	0.999000    	1.005000    	1.005000    	1.004000    	1.004000    
+ Perdita_D07b_Gallo_S	1.008000    	1.009000    	1.009000    	1.009000    	1.011000    	1.011000    
+ Perdita_D07b_Gallo_S	1.011000    	1.008000    	1.014000    	1.011000    	1.009000    	1.015000    
+;
+ Utenze_D07a_Gallo_N	0.495238    	0.328571    	0.299524    	0.360000    	0.283333    	0.286667    
+ Utenze_D07a_Gallo_N	0.520000    	0.220952    	0.221429    	0.383333    	0.216190    	0.239048    
+ Utenze_D07a_Gallo_N	0.210000    	0.687619    	0.253810    	0.216190    	0.220476    	0.721429    
+ Utenze_D07a_Gallo_N	0.234286    	0.227143    	0.208095    	0.215714    	0.510476    	0.212857    
+ Utenze_D07a_Gallo_N	0.209524    	0.221429    	0.228571    	0.212857    	0.215714    	0.215714    
+ Utenze_D07a_Gallo_N	0.207619    	0.222381    	0.229524    	0.210476    	0.228095    	0.229048    
+ Utenze_D07a_Gallo_N	0.200476    	0.217619    	0.223810    	0.221905    	0.234286    	0.229524    
+ Utenze_D07a_Gallo_N	0.209524    	0.234286    	0.210952    	0.221905    	0.196667    	0.208571    
+ Utenze_D07a_Gallo_N	0.225238    	0.226190    	0.205238    	0.245238    	0.227143    	0.250952    
+ Utenze_D07a_Gallo_N	0.255238    	0.267143    	0.284286    	0.210000    	0.212857    	0.233810    
+ Utenze_D07a_Gallo_N	0.233333    	0.218095    	0.213333    	0.218571    	0.227619    	0.222857    
+ Utenze_D07a_Gallo_N	0.283810    	0.532857    	0.290476    	0.259524    	0.212857    	0.318095    
+ Utenze_D07a_Gallo_N	0.257619    	0.329524    	0.343810    	0.748095    	0.384286    	0.963810    
+ Utenze_D07a_Gallo_N	0.327619    	0.665238    	0.340000    	1.638571    	1.313810    	0.841905    
+ Utenze_D07a_Gallo_N	0.924286    	0.482857    	0.716190    	0.476667    	0.549048    	0.740476    
+ Utenze_D07a_Gallo_N	1.241905    	0.769524    	1.489524    	0.545238    	1.372381    	2.291905    
+ Utenze_D07a_Gallo_N	1.590952    	0.699524    	1.608571    	0.669524    	1.291429    	0.424762    
+ Utenze_D07a_Gallo_N	1.173333    	0.528571    	0.655238    	0.632381    	1.334762    	1.180476    
+ Utenze_D07a_Gallo_N	1.027619    	0.897143    	1.112381    	1.010000    	1.462857    	0.498571    
+ Utenze_D07a_Gallo_N	0.444762    	0.858571    	0.705238    	0.328095    	1.500952    	0.510000    
+ Utenze_D07a_Gallo_N	0.619048    	1.087143    	0.410476    	0.870476    	0.847619    	0.528095    
+ Utenze_D07a_Gallo_N	1.034762    	0.386190    	0.419524    	0.426190    	0.816190    	0.577143    
+ Utenze_D07a_Gallo_N	0.474762    	1.217619    	0.713810    	1.645238    	1.334286    	1.320476    
+ Utenze_D07a_Gallo_N	0.450000    	0.376667    	0.333810    	0.306190    	1.131429    	1.100952    
+ Utenze_D07a_Gallo_N	0.353333    	0.868571    	1.175714    	1.453333    	0.304762    	0.617619    
+ Utenze_D07a_Gallo_N	1.080476    	0.370000    	0.378571    	0.505714    	0.682381    	0.343810    
+ Utenze_D07a_Gallo_N	0.457619    	0.674762    	0.349524    	0.359524    	0.861905    	0.817619    
+ Utenze_D07a_Gallo_N	0.488571    	0.409524    	0.832857    	0.360476    	1.072381    	0.593333    
+ Utenze_D07a_Gallo_N	1.026667    	1.256667    	0.834286    	0.345714    	0.527619    	0.352381    
+ Utenze_D07a_Gallo_N	0.895714    	2.158095    	0.274286    	0.757143    	0.731905    	0.551429    
+ Utenze_D07a_Gallo_N	0.384286    	0.562381    	1.057619    	0.354286    	0.423333    	0.420476    
+ Utenze_D07a_Gallo_N	0.263333    	0.980952    	0.437143    	0.626190    	0.655238    	0.742381    
+ Utenze_D07a_Gallo_N	0.418095    	0.391905    	0.326190    	0.580000    	0.371905    	0.441905    
+ Utenze_D07a_Gallo_N	0.524286    	0.574762    	0.438095    	0.580000    	0.428571    	0.567619    
+ Utenze_D07a_Gallo_N	0.437619    	0.350476    	0.517619    	0.369048    	0.546667    	0.458571    
+ Utenze_D07a_Gallo_N	0.400952    	0.365238    	1.687619    	0.818571    	0.329048    	0.487619    
+ Utenze_D07a_Gallo_N	1.665238    	0.594762    	1.174286    	0.787619    	0.722857    	0.351905    
+ Utenze_D07a_Gallo_N	0.475238    	0.459048    	0.510476    	1.026190    	0.505714    	0.400000    
+ Utenze_D07a_Gallo_N	0.461429    	0.961905    	1.143810    	0.934762    	0.927143    	1.167143    
+ Utenze_D07a_Gallo_N	0.328095    	0.454286    	0.354286    	0.560000    	0.411905    	0.620476    
+ Utenze_D07a_Gallo_N	0.927143    	1.024762    	0.752381    	1.120000    	0.516667    	1.229524    
+ Utenze_D07a_Gallo_N	1.148571    	0.509048    	0.400000    	1.051429    	0.732857    	0.486190    
+ Utenze_D07a_Gallo_N	0.591905    	1.078571    	0.639524    	0.825714    	0.948571    	0.630952    
+ Utenze_D07a_Gallo_N	0.507619    	0.475238    	1.128095    	1.395714    	0.442857    	0.624286    
+ Utenze_D07a_Gallo_N	0.656667    	1.510952    	0.557619    	0.516190    	0.427619    	0.323333    
+ Utenze_D07a_Gallo_N	0.391429    	0.882857    	0.393810    	0.310000    	0.855238    	0.500476    
+ Utenze_D07a_Gallo_N	0.634286    	0.300952    	0.274762    	0.419524    	0.272381    	0.248095    
+ Utenze_D07a_Gallo_N	0.287143    	0.281429    	0.277619    	0.274286    	0.258571    	0.444286    
+;
+ Utenze_D08_Castello	0.756806    	0.778813    	0.811808    	0.935078    	0.805313    	0.810110    
+ Utenze_D08_Castello	0.823306    	0.580843    	0.790806    	0.901308    	0.796935    	0.719060    
+ Utenze_D08_Castello	0.801440    	0.732813    	0.756057    	0.725932    	0.725681    	0.681308    
+ Utenze_D08_Castello	0.699343    	0.784808    	0.641970    	0.671813    	0.728560    	0.760843    
+ Utenze_D08_Castello	0.672313    	0.712066    	0.709566    	0.887074    	0.764581    	0.769845    
+ Utenze_D08_Castello	0.657808    	0.657343    	0.695066    	0.709736    	0.701843    	0.669066    
+ Utenze_D08_Castello	0.698066    	0.658557    	0.683313    	0.670066    	0.654066    	1.070781    
+ Utenze_D08_Castello	0.680066    	0.655566    	0.652560    	0.696060    	0.684066    	0.792105    
+ Utenze_D08_Castello	0.729308    	0.736557    	0.622066    	0.739845    	0.805105    	0.573268    
+ Utenze_D08_Castello	0.310432    	0.540808    	0.675725    	0.711337    	0.590313    	0.683268    
+ Utenze_D08_Castello	0.832891    	0.688066    	0.775126    	0.242703    	0.315060    	0.901901    
+ Utenze_D08_Castello	0.701391    	0.486725    	0.653808    	0.656126    	0.819853    	0.646970    
+ Utenze_D08_Castello	0.252557    	0.618580    	0.273203    	0.799308    	1.047992    	0.443126    
+ Utenze_D08_Castello	0.686768    	0.459813    	0.688703    	0.214935    	0.861902    	0.689605    
+ Utenze_D08_Castello	0.938127    	0.865400    	1.611229    	0.523181    	0.442310    	0.560177    
+ Utenze_D08_Castello	0.484808    	0.568140    	1.084506    	0.729806    	0.757794    	0.254610    
+ Utenze_D08_Castello	0.470932    	0.506808    	0.423557    	0.528560    	0.770739    	0.762236    
+ Utenze_D08_Castello	0.431353    	0.772808    	0.715203    	0.816087    	0.670557    	1.081352    
+ Utenze_D08_Castello	0.923091    	0.665448    	0.648808    	0.450057    	0.714126    	0.426483    
+ Utenze_D08_Castello	0.599294    	0.517566    	0.786531    	0.604470    	0.634539    	0.877743    
+ Utenze_D08_Castello	0.801605    	1.174352    	0.836067    	0.812771    	0.336751    	0.688808    
+ Utenze_D08_Castello	0.795853    	0.548343    	0.715865    	0.636057    	0.356181    	0.711768    
+ Utenze_D08_Castello	0.324848    	0.342348    	0.426432    	0.258308    	0.428848    	0.960865    
+ Utenze_D08_Castello	0.605183    	0.669887    	0.335294    	0.456848    	0.994091    	1.222606    
+ Utenze_D08_Castello	0.788743    	0.564566    	1.103887    	0.922887    	0.555557    	0.716440    
+ Utenze_D08_Castello	0.441094    	0.419308    	0.539808    	0.758322    	0.663058    	0.560887    
+ Utenze_D08_Castello	0.492194    	0.633352    	0.293813    	0.232060    	0.577322    	0.817800    
+ Utenze_D08_Castello	0.591605    	0.583566    	0.602105    	0.441308    	0.565940    	0.605808    
+ Utenze_D08_Castello	0.575183    	0.431435    	0.492243    	0.741003    	0.630203    	0.546313    
+ Utenze_D08_Castello	0.902264    	0.818429    	0.471640    	0.474255    	0.726743    	0.580066    
+ Utenze_D08_Castello	0.485560    	0.464531    	0.672345    	0.528806    	0.622203    	0.323470    
+ Utenze_D08_Castello	0.677808    	0.602031    	0.382288    	0.687236    	0.557181    	0.577057    
+ Utenze_D08_Castello	0.636110    	0.762094    	0.781183    	0.586183    	0.612057    	0.631194    
+ Utenze_D08_Castello	0.726448    	0.855387    	0.667845    	0.767356    	0.605681    	0.416181    
+ Utenze_D08_Castello	0.379435    	0.383626    	0.439066    	0.549494    	0.718470    	0.474566    
+ Utenze_D08_Castello	0.501066    	0.544470    	0.850029    	0.479060    	0.999837    	0.734348    
+ Utenze_D08_Castello	0.635345    	0.728503    	0.317848    	0.727183    	0.522225    	1.195452    
+ Utenze_D08_Castello	0.698454    	0.572057    	0.647806    	0.422308    	0.265806    	0.635187    
+ Utenze_D08_Castello	1.248558    	0.893852    	0.969440    	0.847308    	0.791352    	1.034539    
+ Utenze_D08_Castello	0.567308    	0.962003    	0.991872    	0.649094    	0.636687    	0.719852    
+ Utenze_D08_Castello	0.491948    	0.637389    	0.384640    	0.679889    	0.390940    	0.629483    
+ Utenze_D08_Castello	0.387348    	0.643448    	0.723025    	0.647687    	0.808557    	0.666581    
+ Utenze_D08_Castello	0.451306    	0.582183    	0.563074    	0.246771    	0.547105    	0.047650    
+ Utenze_D08_Castello	0.508687    	0.489352    	0.664594    	0.474813    	0.606587    	1.340677    
+ Utenze_D08_Castello	0.160935    	0.485681    	0.625432    	0.630837    	0.746768    	0.682822    
+ Utenze_D08_Castello	0.597813    	0.567843    	0.673733    	0.558681    	0.823391    	0.566935    
+ Utenze_D08_Castello	0.595432    	0.577066    	0.588560    	0.604813    	0.640110    	0.645440    
+ Utenze_D08_Castello	0.866492    	0.766800    	0.619306    	0.533306    	0.273557    	0.609306    
+;
+ Perdita_D08_Castello	1.009000    	1.011000    	1.010000    	0.992000    	1.011000    	1.002000    
+ Perdita_D08_Castello	1.009000    	1.013000    	1.009000    	1.010000    	1.007000    	1.011000    
+ Perdita_D08_Castello	1.006000    	1.011000    	1.010000    	1.008000    	1.009000    	1.010000    
+ Perdita_D08_Castello	1.013000    	1.010000    	1.013000    	1.011000    	1.011000    	1.013000    
+ Perdita_D08_Castello	1.011000    	1.012000    	1.012000    	0.988000    	1.004000    	1.001000    
+ Perdita_D08_Castello	1.010000    	1.013000    	1.012000    	0.995000    	1.013000    	1.012000    
+ Perdita_D08_Castello	1.012000    	1.010000    	1.011000    	1.012000    	1.012000    	0.969000    
+ Perdita_D08_Castello	1.012000    	1.012000    	1.011000    	1.011000    	1.012000    	1.001000    
+ Perdita_D08_Castello	1.010000    	1.010000    	1.012000    	1.001000    	1.001000    	0.999000    
+ Perdita_D08_Castello	1.008000    	1.010000    	1.013000    	1.004000    	1.011000    	0.999000    
+ Perdita_D08_Castello	0.990000    	1.012000    	1.000000    	1.004000    	1.011000    	0.984000    
+ Perdita_D08_Castello	0.990000    	1.013000    	1.010000    	1.000000    	0.995000    	1.013000    
+ Perdita_D08_Castello	1.010000    	0.969000    	1.004000    	0.981000    	0.971000    	1.000000    
+ Perdita_D08_Castello	0.999000    	1.011000    	1.004000    	1.007000    	0.972000    	1.001000    
+ Perdita_D08_Castello	0.930000    	0.987000    	0.886000    	1.009000    	0.961000    	0.986000    
+ Perdita_D08_Castello	1.010000    	0.990000    	0.926000    	1.009000    	0.998000    	1.002000    
+ Perdita_D08_Castello	1.008000    	1.010000    	1.010000    	1.011000    	0.959000    	0.995000    
+ Perdita_D08_Castello	0.995000    	0.993000    	1.004000    	0.996000    	1.010000    	1.002000    
+ Perdita_D08_Castello	0.981000    	1.005000    	1.010000    	1.010000    	1.000000    	0.981000    
+ Perdita_D08_Castello	0.998000    	1.012000    	0.998000    	1.013000    	0.993000    	0.983000    
+ Perdita_D08_Castello	1.001000    	1.002000    	0.964000    	0.994000    	1.016000    	1.010000    
+ Perdita_D08_Castello	0.995000    	1.013000    	1.000000    	1.010000    	0.984000    	0.980000    
+ Perdita_D08_Castello	0.988000    	0.992000    	1.008000    	0.981000    	0.992000    	1.000000    
+ Perdita_D08_Castello	1.008000    	0.999000    	0.998000    	0.988000    	0.981000    	0.944000    
+ Perdita_D08_Castello	0.983000    	1.012000    	0.999000    	0.999000    	1.010000    	0.975000    
+ Perdita_D08_Castello	1.003000    	1.010000    	1.010000    	0.996000    	0.997000    	0.999000    
+ Perdita_D08_Castello	1.005000    	1.002000    	1.011000    	1.011000    	0.996000    	0.989000    
+ Perdita_D08_Castello	1.001000    	1.012000    	1.001000    	1.010000    	1.006000    	1.010000    
+ Perdita_D08_Castello	1.008000    	1.007000    	0.983000    	0.994000    	1.004000    	1.011000    
+ Perdita_D08_Castello	0.965000    	0.959000    	0.990000    	0.976000    	0.983000    	1.012000    
+ Perdita_D08_Castello	1.011000    	0.998000    	1.001000    	1.009000    	1.004000    	1.013000    
+ Perdita_D08_Castello	0.993000    	0.998000    	1.018000    	0.995000    	1.009000    	1.010000    
+ Perdita_D08_Castello	1.002000    	1.003000    	1.008000    	1.008000    	1.010000    	1.005000    
+ Perdita_D08_Castello	1.005000    	0.999000    	1.001000    	0.968000    	1.009000    	1.009000    
+ Perdita_D08_Castello	1.007000    	1.000000    	1.012000    	1.015000    	1.013000    	1.012000    
+ Perdita_D08_Castello	1.012000    	1.013000    	0.979000    	1.011000    	1.004000    	0.992000    
+ Perdita_D08_Castello	1.001000    	0.994000    	1.042000    	1.008000    	1.013000    	0.937000    
+ Perdita_D08_Castello	0.986000    	1.010000    	1.009000    	1.010000    	1.009000    	1.007000    
+ Perdita_D08_Castello	0.997000    	1.002000    	1.006000    	1.010000    	1.002000    	0.993000    
+ Perdita_D08_Castello	0.993000    	0.994000    	0.964000    	1.003000    	1.007000    	1.002000    
+ Perdita_D08_Castello	1.005000    	0.978000    	0.990000    	0.978000    	1.006000    	0.981000    
+ Perdita_D08_Castello	0.988000    	1.005000    	0.982000    	1.007000    	1.010000    	1.004000    
+ Perdita_D08_Castello	1.009000    	1.008000    	0.988000    	0.994000    	1.001000    	0.976000    
+ Perdita_D08_Castello	1.007000    	1.002000    	1.003000    	1.011000    	0.996000    	0.986000    
+ Perdita_D08_Castello	1.007000    	1.009000    	1.008000    	1.004000    	0.999000    	0.996000    
+ Perdita_D08_Castello	1.011000    	1.013000    	0.985000    	1.009000    	0.990000    	1.007000    
+ Perdita_D08_Castello	1.008000    	1.012000    	1.011000    	1.011000    	1.002000    	0.975000    
+ Perdita_D08_Castello	0.971000    	0.989000    	1.009000    	1.009000    	1.010000    	1.009000    
+;
+ Utenze_D04a_Ponte_Basso_N	0.232083    	0.467083    	0.407500    	0.167083    	0.288333    	0.354167    
+ Utenze_D04a_Ponte_Basso_N	0.360417    	0.246250    	0.213333    	0.337083    	0.358333    	0.269583    
+ Utenze_D04a_Ponte_Basso_N	0.447917    	0.242500    	0.403333    	0.304167    	0.285000    	0.427917    
+ Utenze_D04a_Ponte_Basso_N	0.210833    	0.247083    	0.217500    	0.413333    	0.315833    	0.302500    
+ Utenze_D04a_Ponte_Basso_N	0.293333    	0.412500    	0.267083    	0.497500    	0.373333    	0.453333    
+ Utenze_D04a_Ponte_Basso_N	0.581250    	0.335417    	0.282083    	0.471667    	0.322500    	0.350000    
+ Utenze_D04a_Ponte_Basso_N	0.425833    	0.262500    	0.396250    	0.412083    	0.386667    	0.486667    
+ Utenze_D04a_Ponte_Basso_N	0.301250    	0.403750    	0.364583    	0.357083    	0.396250    	0.328750    
+ Utenze_D04a_Ponte_Basso_N	0.585000    	0.521667    	0.474583    	0.336250    	0.286667    	0.465000    
+ Utenze_D04a_Ponte_Basso_N	0.502083    	0.498750    	0.402917    	0.317500    	0.350417    	0.404583    
+ Utenze_D04a_Ponte_Basso_N	0.349583    	0.430417    	0.478333    	0.511667    	0.409167    	0.356667    
+ Utenze_D04a_Ponte_Basso_N	0.514583    	0.471667    	0.437083    	0.251250    	0.289167    	0.309583    
+ Utenze_D04a_Ponte_Basso_N	0.504167    	0.533333    	0.567083    	0.500000    	0.573333    	0.509583    
+ Utenze_D04a_Ponte_Basso_N	0.291250    	0.823333    	0.441250    	0.847917    	0.423333    	0.543750    
+ Utenze_D04a_Ponte_Basso_N	0.302500    	0.612500    	0.712083    	0.357500    	0.385000    	1.546250    
+ Utenze_D04a_Ponte_Basso_N	0.389167    	0.434583    	0.342917    	0.392917    	0.725417    	0.403750    
+ Utenze_D04a_Ponte_Basso_N	0.680000    	0.496667    	0.771250    	0.526667    	0.672500    	0.522917    
+ Utenze_D04a_Ponte_Basso_N	0.916667    	1.222083    	0.765833    	0.303333    	0.684167    	0.922083    
+ Utenze_D04a_Ponte_Basso_N	0.503333    	0.837083    	0.315000    	0.580833    	0.818333    	0.754583    
+ Utenze_D04a_Ponte_Basso_N	0.977083    	0.616250    	0.844583    	0.855833    	0.885417    	0.363333    
+ Utenze_D04a_Ponte_Basso_N	0.775417    	0.593750    	1.105000    	0.970417    	0.420000    	0.987500    
+ Utenze_D04a_Ponte_Basso_N	0.934583    	0.885000    	0.646667    	0.684583    	0.419167    	0.663333    
+ Utenze_D04a_Ponte_Basso_N	0.980833    	0.326250    	0.536667    	0.523750    	0.722083    	0.419583    
+ Utenze_D04a_Ponte_Basso_N	0.755000    	0.619167    	0.554167    	0.271667    	0.314583    	0.355000    
+ Utenze_D04a_Ponte_Basso_N	0.324167    	0.412917    	0.426667    	0.434583    	1.125000    	0.708750    
+ Utenze_D04a_Ponte_Basso_N	0.394583    	1.025417    	0.723333    	0.616667    	0.597083    	0.365833    
+ Utenze_D04a_Ponte_Basso_N	0.455000    	0.442083    	0.643333    	0.446667    	0.615000    	0.428750    
+ Utenze_D04a_Ponte_Basso_N	0.535000    	0.627917    	0.800417    	0.886667    	0.551250    	0.994167    
+ Utenze_D04a_Ponte_Basso_N	1.035833    	0.245417    	0.932083    	1.477500    	0.327083    	0.357083    
+ Utenze_D04a_Ponte_Basso_N	0.330833    	0.494167    	0.602917    	0.823750    	0.726667    	0.670833    
+ Utenze_D04a_Ponte_Basso_N	0.496250    	0.437917    	0.770417    	0.556667    	0.372917    	0.725000    
+ Utenze_D04a_Ponte_Basso_N	1.074167    	0.597917    	0.360833    	1.319167    	0.465000    	1.373333    
+ Utenze_D04a_Ponte_Basso_N	1.017917    	0.451667    	0.430000    	0.375833    	0.571250    	0.563750    
+ Utenze_D04a_Ponte_Basso_N	0.527500    	0.456250    	0.549167    	0.345000    	0.453333    	0.932500    
+ Utenze_D04a_Ponte_Basso_N	0.385833    	0.532500    	0.480417    	0.468333    	0.595417    	0.474583    
+ Utenze_D04a_Ponte_Basso_N	0.845417    	0.436667    	0.370833    	0.566667    	0.480417    	0.432500    
+ Utenze_D04a_Ponte_Basso_N	0.370833    	0.508333    	0.556250    	1.100000    	0.515833    	0.241250    
+ Utenze_D04a_Ponte_Basso_N	0.537500    	0.501250    	0.461250    	0.806667    	0.456250    	0.414583    
+ Utenze_D04a_Ponte_Basso_N	0.536667    	0.459167    	0.408750    	0.938333    	0.352917    	0.417917    
+ Utenze_D04a_Ponte_Basso_N	0.368333    	1.048750    	0.337917    	0.918750    	0.345833    	0.476667    
+ Utenze_D04a_Ponte_Basso_N	0.611667    	0.669167    	0.597500    	0.515417    	1.148333    	0.965417    
+ Utenze_D04a_Ponte_Basso_N	0.586667    	0.912917    	0.912083    	0.482500    	0.230833    	0.746667    
+ Utenze_D04a_Ponte_Basso_N	0.319167    	0.415833    	0.286667    	0.595417    	0.424583    	0.211250    
+ Utenze_D04a_Ponte_Basso_N	0.520000    	0.258750    	0.236667    	0.317500    	0.348750    	0.646667    
+ Utenze_D04a_Ponte_Basso_N	0.307500    	0.358333    	0.345417    	0.422083    	0.494583    	0.485833    
+ Utenze_D04a_Ponte_Basso_N	0.469167    	0.537917    	0.310417    	0.597917    	0.317500    	0.432500    
+ Utenze_D04a_Ponte_Basso_N	0.448750    	0.252917    	0.301667    	0.399167    	0.443333    	0.396250    
+ Utenze_D04a_Ponte_Basso_N	0.302917    	0.325417    	0.679167    	0.270000    	0.325417    	0.406667    
+;
+ Utenze_D04b_Ponte_Basso_S	3.470000    	0.453333    	1.165000    	1.505000    	0.385000    	0.526667    
+ Utenze_D04b_Ponte_Basso_S	0.416667    	0.401667    	0.393333    	1.593333    	0.383333    	0.811667    
+ Utenze_D04b_Ponte_Basso_S	0.433333    	0.418333    	0.390000    	0.355000    	0.351667    	0.315000    
+ Utenze_D04b_Ponte_Basso_S	0.343333    	0.391667    	0.346667    	1.010000    	0.306667    	0.260000    
+ Utenze_D04b_Ponte_Basso_S	0.271667    	0.276667    	0.291667    	0.301667    	0.268333    	0.675000    
+ Utenze_D04b_Ponte_Basso_S	0.353333    	0.293333    	0.288333    	0.286667    	0.280000    	0.305000    
+ Utenze_D04b_Ponte_Basso_S	0.275000    	0.308333    	0.330000    	0.290000    	0.295000    	0.316667    
+ Utenze_D04b_Ponte_Basso_S	0.286667    	0.291667    	0.305000    	0.285000    	0.310000    	0.283333    
+ Utenze_D04b_Ponte_Basso_S	0.310000    	0.280000    	0.245000    	0.305000    	0.291667    	0.435000    
+ Utenze_D04b_Ponte_Basso_S	0.313333    	0.298333    	0.305000    	0.306667    	0.325000    	0.320000    
+ Utenze_D04b_Ponte_Basso_S	0.623333    	1.876667    	0.313333    	0.306667    	1.171667    	0.356667    
+ Utenze_D04b_Ponte_Basso_S	0.288333    	0.496667    	1.225000    	0.511667    	0.421667    	0.295000    
+ Utenze_D04b_Ponte_Basso_S	0.283333    	1.701667    	1.185000    	0.400000    	0.795000    	0.795000    
+ Utenze_D04b_Ponte_Basso_S	1.716667    	2.993333    	0.746667    	0.456667    	1.075000    	0.900000    
+ Utenze_D04b_Ponte_Basso_S	0.436667    	1.400000    	1.203333    	1.480000    	0.851667    	0.745000    
+ Utenze_D04b_Ponte_Basso_S	0.688333    	0.353333    	0.946667    	0.721667    	0.370000    	0.598333    
+ Utenze_D04b_Ponte_Basso_S	1.476667    	2.136667    	1.993333    	0.641667    	2.353333    	3.526667    
+ Utenze_D04b_Ponte_Basso_S	1.556667    	1.798333    	2.513333    	4.720000    	1.541667    	1.860000    
+ Utenze_D04b_Ponte_Basso_S	3.151667    	1.550000    	1.395000    	1.996667    	1.495000    	0.596667    
+ Utenze_D04b_Ponte_Basso_S	2.786667    	1.813333    	0.831667    	2.303333    	1.578333    	1.585000    
+ Utenze_D04b_Ponte_Basso_S	0.420000    	1.600000    	0.445000    	0.423333    	0.751667    	0.508333    
+ Utenze_D04b_Ponte_Basso_S	2.673333    	1.741667    	1.238333    	1.326667    	2.845000    	2.261667    
+ Utenze_D04b_Ponte_Basso_S	3.018333    	2.083333    	2.191667    	2.286667    	2.020000    	2.380000    
+ Utenze_D04b_Ponte_Basso_S	1.698333    	1.423333    	4.945000    	0.480000    	1.771667    	1.303333    
+ Utenze_D04b_Ponte_Basso_S	0.698333    	1.343333    	0.786667    	1.908333    	1.566667    	0.456667    
+ Utenze_D04b_Ponte_Basso_S	0.538333    	0.701667    	0.683333    	1.675000    	4.623333    	3.771667    
+ Utenze_D04b_Ponte_Basso_S	2.230000    	3.258333    	2.260000    	2.190000    	3.535000    	2.638333    
+ Utenze_D04b_Ponte_Basso_S	1.996667    	2.500000    	2.541667    	3.600000    	1.435000    	0.561667    
+ Utenze_D04b_Ponte_Basso_S	4.356667    	1.463333    	1.296667    	0.380000    	0.890000    	0.698333    
+ Utenze_D04b_Ponte_Basso_S	1.676667    	1.865000    	0.570000    	1.886667    	0.711667    	1.653333    
+ Utenze_D04b_Ponte_Basso_S	4.300000    	0.651667    	1.363333    	2.436667    	0.598333    	2.588333    
+ Utenze_D04b_Ponte_Basso_S	0.563333    	1.130000    	1.631667    	2.408333    	0.546667    	2.176667    
+ Utenze_D04b_Ponte_Basso_S	0.528333    	1.420000    	0.481667    	0.586667    	0.576667    	2.395000    
+ Utenze_D04b_Ponte_Basso_S	1.118333    	0.533333    	0.508333    	0.475000    	1.183333    	0.651667    
+ Utenze_D04b_Ponte_Basso_S	1.925000    	1.940000    	4.090000    	0.616667    	2.026667    	0.681667    
+ Utenze_D04b_Ponte_Basso_S	1.451667    	0.763333    	1.091667    	0.531667    	1.765000    	1.510000    
+ Utenze_D04b_Ponte_Basso_S	2.586667    	1.458333    	0.886667    	0.681667    	0.631667    	3.251667    
+ Utenze_D04b_Ponte_Basso_S	3.710000    	1.233333    	2.348333    	1.480000    	2.725000    	2.060000    
+ Utenze_D04b_Ponte_Basso_S	1.715000    	1.218333    	3.166667    	1.458333    	0.596667    	1.845000    
+ Utenze_D04b_Ponte_Basso_S	1.310000    	0.631667    	0.608333    	2.596667    	1.551667    	4.913333    
+ Utenze_D04b_Ponte_Basso_S	0.373333    	1.613333    	2.656667    	0.870000    	2.196667    	1.730000    
+ Utenze_D04b_Ponte_Basso_S	3.091667    	2.383333    	2.361667    	2.383333    	2.788333    	1.500000    
+ Utenze_D04b_Ponte_Basso_S	1.010000    	0.795000    	0.468333    	0.816667    	0.441667    	1.370000    
+ Utenze_D04b_Ponte_Basso_S	1.363333    	0.468333    	0.505000    	1.140000    	1.908333    	1.440000    
+ Utenze_D04b_Ponte_Basso_S	0.506667    	1.751667    	3.265000    	3.868333    	2.363333    	1.943333    
+ Utenze_D04b_Ponte_Basso_S	0.570000    	0.538333    	1.908333    	3.560000    	0.475000    	0.771667    
+ Utenze_D04b_Ponte_Basso_S	0.993333    	1.193333    	1.098333    	1.723333    	1.408333    	1.498333    
+ Utenze_D04b_Ponte_Basso_S	1.085000    	2.463333    	0.490000    	0.566667    	1.545000    	1.825000    
+;
+ Utenze_D03_Ponte_Alto	0.443875    	7.332662    	1.206936    	0.490269    	0.656936    	5.534896    
+ Utenze_D03_Ponte_Alto	11.663635   	0.927937    	15.884801   	3.147480    	2.416392    	0.646121    
+ Utenze_D03_Ponte_Alto	0.796121    	2.112787    	0.896121    	2.212787    	0.692516    	0.725849    
+ Utenze_D03_Ponte_Alto	0.625849    	0.892516    	0.822245    	2.322245    	0.738912    	0.555578    
+ Utenze_D03_Ponte_Alto	10.170541   	1.198174    	4.691631    	9.377343    	0.655578    	0.587109    
+ Utenze_D03_Ponte_Alto	6.949328    	1.422245    	0.737109    	1.200172    	0.466838    	0.666838    
+ Utenze_D03_Ponte_Alto	0.683505    	0.666838    	10.591788   	11.563872   	9.968454    	1.483505    
+ Utenze_D03_Ponte_Alto	5.770466    	6.660154    	5.504032    	2.146121    	0.692963    	8.986270    
+ Utenze_D03_Ponte_Alto	1.179901    	0.609630    	4.734419    	1.059630    	1.506044    	1.409630    
+ Utenze_D03_Ponte_Alto	1.139377    	0.972710    	6.034419    	0.739377    	0.802440    	1.069107    
+ Utenze_D03_Ponte_Alto	0.935773    	1.065503    	0.915503    	0.865503    	0.615503    	5.388025    
+ Utenze_D03_Ponte_Alto	0.782170    	0.448836    	1.992963    	-0.071434   	10.612629   	5.260541    
+ Utenze_D03_Ponte_Alto	0.715503    	0.574963    	5.254816    	11.578608   	2.042963    	6.820466    
+ Utenze_D03_Ponte_Alto	7.158297    	5.614287    	5.823603    	12.307484   	0.858296    	6.483979    
+ Utenze_D03_Ponte_Alto	6.158297    	0.904693    	0.815503    	2.222710    	1.128321    	10.493175   
+ Utenze_D03_Ponte_Alto	7.724963    	21.003242   	7.983615    	6.058297    	7.304253    	11.637365   
+ Utenze_D03_Ponte_Alto	1.728566    	13.311271   	22.231863   	10.138025   	12.473940   	12.704430   
+ Utenze_D03_Ponte_Alto	7.579901    	16.171884   	31.469983   	7.914705    	36.413604   	18.515670   
+ Utenze_D03_Ponte_Alto	2.612787    	1.369107    	0.982170    	13.113635   	8.414287    	8.908821    
+ Utenze_D03_Ponte_Alto	4.139453    	5.349726    	4.970443    	2.698836    	28.368948   	25.611779   
+ Utenze_D03_Ponte_Alto	23.512398   	23.594612   	26.633316   	26.690007   	26.794235   	28.226624   
+ Utenze_D03_Ponte_Alto	33.330019   	25.660597   	23.726926   	22.903615   	23.396345   	23.366339   
+ Utenze_D03_Ponte_Alto	23.946037   	25.045112   	29.362037   	28.812037   	31.043629   	33.214396   
+ Utenze_D03_Ponte_Alto	32.694073   	31.973751   	33.911522   	32.873120   	33.076779   	33.459096   
+ Utenze_D03_Ponte_Alto	32.025763   	29.740215   	29.675613   	12.084920   	15.021755   	5.359729    
+ Utenze_D03_Ponte_Alto	5.823732    	7.731507    	6.364287    	6.440138    	7.158042    	8.055808    
+ Utenze_D03_Ponte_Alto	5.290818    	9.669857    	6.540398    	8.655204    	13.477560   	10.208455   
+ Utenze_D03_Ponte_Alto	9.511654    	6.233615    	6.756120    	11.737763   	5.313339    	5.096672    
+ Utenze_D03_Ponte_Alto	5.143488    	8.180954    	7.670541    	7.087763    	9.275121    	9.460676    
+ Utenze_D03_Ponte_Alto	8.178321    	9.054843    	10.528321   	12.216837   	3.758779    	2.917752    
+ Utenze_D03_Ponte_Alto	2.743875    	10.221096   	9.853007    	8.015995    	1.793875    	3.334419    
+ Utenze_D03_Ponte_Alto	9.870541    	2.190269    	2.640269    	2.769997    	3.173603    	2.569997    
+ Utenze_D03_Ponte_Alto	2.897206    	16.980127   	15.685121   	14.545663   	12.480539   	3.996672    
+ Utenze_D03_Ponte_Alto	14.630127   	13.069185   	10.434315   	7.281288    	15.482337   	10.944428   
+ Utenze_D03_Ponte_Alto	4.661466    	5.274526    	5.070919    	6.283979    	4.476297    	7.361014    
+ Utenze_D03_Ponte_Alto	19.777560   	7.815995    	13.155808   	13.344908   	9.857484    	18.930127   
+ Utenze_D03_Ponte_Alto	12.841375   	4.900646    	10.935121   	10.620121   	12.094988   	7.684200    
+ Utenze_D03_Ponte_Alto	11.098038   	7.100646    	4.717313    	5.041631    	3.724964    	4.508297    
+ Utenze_D03_Ponte_Alto	4.074964    	4.774964    	2.705578    	2.313234    	14.764967   	2.250172    
+ Utenze_D03_Ponte_Alto	14.594009   	3.187109    	2.750172    	1.556044    	3.969997    	3.272245    
+ Utenze_D03_Ponte_Alto	2.159630    	6.215503    	8.134896    	8.990138    	5.491631    	8.337532    
+ Utenze_D03_Ponte_Alto	8.741788    	13.720268   	10.681372   	3.441630    	6.002510    	2.435329    
+ Utenze_D03_Ponte_Alto	1.114147    	1.501086    	3.461095    	7.137586    	2.459729    	4.980373    
+ Utenze_D03_Ponte_Alto	2.593875    	3.551587    	10.812629   	17.928080   	4.260541    	11.259729   
+ Utenze_D03_Ponte_Alto	4.877208    	5.967752    	6.273603    	4.010541    	4.433059    	4.429454    
+ Utenze_D03_Ponte_Alto	4.496121    	11.137763   	6.773603    	6.077681    	5.353331    	4.659183    
+ Utenze_D03_Ponte_Alto	14.948600   	5.362787    	4.822245    	8.733177    	7.672889    	5.853331    
+ Utenze_D03_Ponte_Alto	4.738912    	8.748389    	5.070443    	4.022245    	4.903776    	5.070443    
+;
+ Utenze_D05_Pianino	0.350000    	0.383333    	0.353333    	0.310000    	0.310000    	0.286667    
+ Utenze_D05_Pianino	0.323333    	0.313333    	0.296667    	0.283333    	0.240000    	0.256667    
+ Utenze_D05_Pianino	0.266667    	0.306667    	0.276667    	0.303333    	0.270000    	0.246667    
+ Utenze_D05_Pianino	0.233333    	0.293333    	0.276667    	0.253333    	0.286667    	0.190000    
+ Utenze_D05_Pianino	0.253333    	0.286667    	0.216667    	0.266667    	0.456667    	0.483333    
+ Utenze_D05_Pianino	0.173333    	0.210000    	0.256667    	0.250000    	0.226667    	0.286667    
+ Utenze_D05_Pianino	0.220000    	0.303333    	0.246667    	0.206667    	0.230000    	0.276667    
+ Utenze_D05_Pianino	0.266667    	0.270000    	0.263333    	0.280000    	0.283333    	0.326667    
+ Utenze_D05_Pianino	0.310000    	0.376667    	0.333333    	0.373333    	0.363333    	0.366667    
+ Utenze_D05_Pianino	0.303333    	0.353333    	0.313333    	0.330000    	0.396667    	0.360000    
+ Utenze_D05_Pianino	0.396667    	0.450000    	0.416667    	0.473333    	0.436667    	0.416667    
+ Utenze_D05_Pianino	0.453333    	0.460000    	0.433333    	0.400000    	0.383333    	0.373333    
+ Utenze_D05_Pianino	0.356667    	0.363333    	0.336667    	0.320000    	0.250000    	0.293333    
+ Utenze_D05_Pianino	0.266667    	0.213333    	0.243333    	0.233333    	0.213333    	0.260000    
+ Utenze_D05_Pianino	0.210000    	0.290000    	0.283333    	0.293333    	0.206667    	0.300000    
+ Utenze_D05_Pianino	0.306667    	1.036667    	1.013333    	1.023333    	1.040000    	1.060000    
+ Utenze_D05_Pianino	1.063333    	1.086667    	1.116667    	1.083333    	1.116667    	1.113333    
+ Utenze_D05_Pianino	1.153333    	1.153333    	1.233333    	1.183333    	1.200000    	1.213333    
+ Utenze_D05_Pianino	1.176667    	1.150000    	1.103333    	1.220000    	1.100000    	1.150000    
+ Utenze_D05_Pianino	1.186667    	1.160000    	1.180000    	1.216667    	1.253333    	1.293333    
+ Utenze_D05_Pianino	1.296667    	1.293333    	1.283333    	1.343333    	1.393333    	1.373333    
+ Utenze_D05_Pianino	1.386667    	1.360000    	1.420000    	1.386667    	1.420000    	1.453333    
+ Utenze_D05_Pianino	1.420000    	1.486667    	1.423333    	1.350000    	1.376667    	1.296667    
+ Utenze_D05_Pianino	1.273333    	1.316667    	1.366667    	1.240000    	1.236667    	1.176667    
+ Utenze_D05_Pianino	1.090000    	1.160000    	1.166667    	1.173333    	1.143333    	1.153333    
+ Utenze_D05_Pianino	1.093333    	1.043333    	1.003333    	1.013333    	1.046667    	1.020000    
+ Utenze_D05_Pianino	1.033333    	1.086667    	1.033333    	0.966667    	0.783333    	0.780000    
+ Utenze_D05_Pianino	0.750000    	0.780000    	0.783333    	0.713333    	0.623333    	0.733333    
+ Utenze_D05_Pianino	0.716667    	0.726667    	0.750000    	0.790000    	0.786667    	0.793333    
+ Utenze_D05_Pianino	0.783333    	0.760000    	0.743333    	0.713333    	0.713333    	0.730000    
+ Utenze_D05_Pianino	0.773333    	0.766667    	0.786667    	0.766667    	0.740000    	0.733333    
+ Utenze_D05_Pianino	0.753333    	0.766667    	0.740000    	0.776667    	0.736667    	0.713333    
+ Utenze_D05_Pianino	0.746667    	0.770000    	0.773333    	0.760000    	0.776667    	0.733333    
+ Utenze_D05_Pianino	0.836667    	0.796667    	0.846667    	0.813333    	0.816667    	0.816667    
+ Utenze_D05_Pianino	0.863333    	0.800000    	0.810000    	0.813333    	0.843333    	0.806667    
+ Utenze_D05_Pianino	0.813333    	0.800000    	0.790000    	0.836667    	0.863333    	0.836667    
+ Utenze_D05_Pianino	0.800000    	0.800000    	0.810000    	0.813333    	0.776667    	0.810000    
+ Utenze_D05_Pianino	0.856667    	0.820000    	0.796667    	0.806667    	0.813333    	1.153333    
+ Utenze_D05_Pianino	0.826667    	0.846667    	0.830000    	0.846667    	0.840000    	0.803333    
+ Utenze_D05_Pianino	0.770000    	0.836667    	0.820000    	0.810000    	0.830000    	0.810000    
+ Utenze_D05_Pianino	0.793333    	0.793333    	0.803333    	0.783333    	0.826667    	0.813333    
+ Utenze_D05_Pianino	0.793333    	0.773333    	0.786667    	0.780000    	0.776667    	0.843333    
+ Utenze_D05_Pianino	0.843333    	0.786667    	0.830000    	0.796667    	0.776667    	0.803333    
+ Utenze_D05_Pianino	0.803333    	0.843333    	0.823333    	0.870000    	0.833333    	0.806667    
+ Utenze_D05_Pianino	0.840000    	0.850000    	0.820000    	0.840000    	0.853333    	0.786667    
+ Utenze_D05_Pianino	0.833333    	0.826667    	0.826667    	0.823333    	0.816667    	0.870000    
+ Utenze_D05_Pianino	0.810000    	0.823333    	0.766667    	0.823333    	0.763333    	0.723333    
+ Utenze_D05_Pianino	0.776667    	0.746667    	0.800000    	0.716667    	0.773333    	0.750000    
+;
+ Perdita_D10_Madonnelle	1.008000    	1.004000    	1.009000    	1.010000    	1.009000    	1.007000    
+ Perdita_D10_Madonnelle	1.008000    	1.010000    	1.009000    	1.006000    	1.010000    	1.010000    
+ Perdita_D10_Madonnelle	1.010000    	1.010000    	1.010000    	1.009000    	1.010000    	1.006000    
+ Perdita_D10_Madonnelle	1.009000    	1.010000    	1.009000    	1.010000    	1.008000    	1.011000    
+ Perdita_D10_Madonnelle	1.010000    	1.010000    	1.007000    	1.010000    	1.010000    	1.012000    
+ Perdita_D10_Madonnelle	1.010000    	1.011000    	1.009000    	1.010000    	1.010000    	1.008000    
+ Perdita_D10_Madonnelle	1.007000    	1.008000    	1.009000    	1.007000    	1.009000    	1.006000    
+ Perdita_D10_Madonnelle	1.010000    	1.008000    	1.010000    	1.007000    	1.009000    	1.016000    
+ Perdita_D10_Madonnelle	1.010000    	1.010000    	1.010000    	1.010000    	1.005000    	1.008000    
+ Perdita_D10_Madonnelle	1.006000    	1.007000    	1.007000    	1.009000    	1.006000    	1.008000    
+ Perdita_D10_Madonnelle	1.006000    	1.012000    	1.008000    	1.009000    	0.999000    	0.999000    
+ Perdita_D10_Madonnelle	1.001000    	0.989000    	0.997000    	0.997000    	1.003000    	0.997000    
+ Perdita_D10_Madonnelle	0.996000    	1.003000    	0.993000    	0.994000    	0.992000    	0.996000    
+ Perdita_D10_Madonnelle	1.008000    	1.005000    	1.002000    	0.998000    	0.999000    	0.996000    
+ Perdita_D10_Madonnelle	0.981000    	0.981000    	1.001000    	0.993000    	0.988000    	1.001000    
+ Perdita_D10_Madonnelle	0.996000    	0.993000    	1.000000    	0.989000    	0.989000    	0.981000    
+ Perdita_D10_Madonnelle	0.994000    	0.992000    	1.001000    	0.986000    	0.989000    	0.996000    
+ Perdita_D10_Madonnelle	0.986000    	0.985000    	0.997000    	0.999000    	0.989000    	0.993000    
+ Perdita_D10_Madonnelle	0.997000    	0.998000    	0.990000    	1.004000    	0.992000    	1.001000    
+ Perdita_D10_Madonnelle	0.985000    	0.992000    	0.995000    	0.997000    	0.993000    	1.001000    
+ Perdita_D10_Madonnelle	0.988000    	1.003000    	0.995000    	1.008000    	0.987000    	0.998000    
+ Perdita_D10_Madonnelle	0.994000    	0.992000    	0.999000    	0.995000    	1.002000    	0.985000    
+ Perdita_D10_Madonnelle	0.992000    	1.005000    	0.986000    	0.999000    	1.002000    	1.002000    
+ Perdita_D10_Madonnelle	0.998000    	1.002000    	1.001000    	1.000000    	1.004000    	1.002000    
+ Perdita_D10_Madonnelle	1.003000    	0.988000    	1.007000    	0.999000    	0.990000    	0.995000    
+ Perdita_D10_Madonnelle	0.995000    	1.002000    	0.999000    	0.998000    	0.998000    	0.994000    
+ Perdita_D10_Madonnelle	0.997000    	0.992000    	0.992000    	0.993000    	1.000000    	0.995000    
+ Perdita_D10_Madonnelle	0.999000    	0.993000    	1.007000    	0.995000    	0.997000    	0.994000    
+ Perdita_D10_Madonnelle	0.996000    	0.997000    	0.999000    	0.993000    	1.001000    	1.009000    
+ Perdita_D10_Madonnelle	1.002000    	0.993000    	0.992000    	1.005000    	1.003000    	1.003000    
+ Perdita_D10_Madonnelle	1.002000    	0.999000    	1.003000    	1.003000    	0.997000    	0.994000    
+ Perdita_D10_Madonnelle	1.001000    	0.989000    	1.000000    	0.998000    	1.000000    	0.981000    
+ Perdita_D10_Madonnelle	0.986000    	1.002000    	1.006000    	0.998000    	1.000000    	1.004000    
+ Perdita_D10_Madonnelle	1.006000    	0.989000    	0.989000    	0.996000    	1.007000    	0.995000    
+ Perdita_D10_Madonnelle	0.992000    	0.990000    	0.997000    	1.006000    	0.998000    	0.997000    
+ Perdita_D10_Madonnelle	1.001000    	1.002000    	1.002000    	0.992000    	0.996000    	1.004000    
+ Perdita_D10_Madonnelle	0.999000    	1.004000    	1.002000    	0.990000    	0.991000    	0.993000    
+ Perdita_D10_Madonnelle	0.991000    	0.999000    	0.995000    	0.990000    	0.999000    	0.989000    
+ Perdita_D10_Madonnelle	0.989000    	0.995000    	0.999000    	0.995000    	0.998000    	1.002000    
+ Perdita_D10_Madonnelle	0.990000    	0.993000    	0.991000    	1.003000    	0.986000    	0.994000    
+ Perdita_D10_Madonnelle	0.990000    	0.999000    	0.993000    	0.993000    	0.988000    	0.989000    
+ Perdita_D10_Madonnelle	0.995000    	1.005000    	0.993000    	0.997000    	0.999000    	0.997000    
+ Perdita_D10_Madonnelle	1.005000    	0.998000    	0.998000    	1.000000    	0.999000    	0.997000    
+ Perdita_D10_Madonnelle	0.999000    	0.999000    	1.003000    	1.004000    	0.996000    	1.004000    
+ Perdita_D10_Madonnelle	0.999000    	1.003000    	1.007000    	1.006000    	1.005000    	1.001000    
+ Perdita_D10_Madonnelle	1.008000    	1.003000    	1.007000    	1.006000    	1.005000    	1.009000    
+ Perdita_D10_Madonnelle	1.004000    	1.006000    	1.004000    	1.001000    	1.007000    	1.003000    
+ Perdita_D10_Madonnelle	1.006000    	1.008000    	1.004000    	1.009000    	1.004000    	1.016000    
+;
+ Perdita_D03_Ponte_Alto	1.008000    	1.005000    	1.009000    	1.009000    	1.009000    	1.006000    
+ Perdita_D03_Ponte_Alto	0.997000    	0.993000    	0.992000    	1.008000    	1.009000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.009000    	1.009000    	1.009000    	1.009000    	1.009000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.009000    	1.009000    	1.009000    	1.009000    	1.009000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.003000    	1.000000    	1.008000    	1.002000    	1.009000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.005000    	1.009000    	1.009000    	1.010000    	1.010000    	1.010000    
+ Perdita_D03_Ponte_Alto	1.010000    	1.010000    	1.001000    	1.001000    	0.999000    	1.010000    
+ Perdita_D03_Ponte_Alto	1.006000    	1.004000    	0.993000    	1.009000    	1.010000    	1.005000    
+ Perdita_D03_Ponte_Alto	1.010000    	1.010000    	1.008000    	1.010000    	1.010000    	1.010000    
+ Perdita_D03_Ponte_Alto	1.010000    	1.010000    	1.008000    	1.010000    	1.010000    	1.010000    
+ Perdita_D03_Ponte_Alto	1.010000    	1.010000    	1.010000    	1.010000    	1.010000    	1.008000    
+ Perdita_D03_Ponte_Alto	1.010000    	1.010000    	1.010000    	1.011000    	0.999000    	1.008000    
+ Perdita_D03_Ponte_Alto	1.010000    	1.011000    	0.995000    	0.990000    	1.010000    	1.006000    
+ Perdita_D03_Ponte_Alto	1.008000    	1.002000    	1.009000    	1.003000    	1.011000    	1.007000    
+ Perdita_D03_Ponte_Alto	1.008000    	1.011000    	1.010000    	1.010000    	1.000000    	0.994000    
+ Perdita_D03_Ponte_Alto	1.011000    	0.988000    	1.003000    	1.008000    	1.007000    	0.993000    
+ Perdita_D03_Ponte_Alto	1.011000    	0.993000    	0.989000    	1.008000    	0.992000    	1.001000    
+ Perdita_D03_Ponte_Alto	1.010000    	0.980000    	0.970000    	1.003000    	0.963000    	0.994000    
+ Perdita_D03_Ponte_Alto	1.009000    	1.010000    	1.010000    	0.997000    	1.002000    	0.995000    
+ Perdita_D03_Ponte_Alto	1.004000    	1.009000    	1.009000    	1.010000    	0.956000    	0.973000    
+ Perdita_D03_Ponte_Alto	0.975000    	0.961000    	0.971000    	0.969000    	0.971000    	0.963000    
+ Perdita_D03_Ponte_Alto	0.962000    	0.970000    	0.974000    	0.976000    	0.976000    	0.975000    
+ Perdita_D03_Ponte_Alto	0.975000    	0.973000    	0.964000    	0.964000    	0.958000    	0.953000    
+ Perdita_D03_Ponte_Alto	0.954000    	0.954000    	0.950000    	0.951000    	0.951000    	0.947000    
+ Perdita_D03_Ponte_Alto	0.947000    	0.959000    	0.960000    	0.995000    	0.991000    	1.004000    
+ Perdita_D03_Ponte_Alto	1.002000    	1.000000    	1.002000    	0.998000    	1.001000    	1.000000    
+ Perdita_D03_Ponte_Alto	1.003000    	0.999000    	1.002000    	0.995000    	0.992000    	1.001000    
+ Perdita_D03_Ponte_Alto	1.000000    	1.003000    	1.004000    	1.001000    	1.004000    	1.004000    
+ Perdita_D03_Ponte_Alto	1.004000    	1.002000    	1.003000    	1.001000    	1.001000    	1.002000    
+ Perdita_D03_Ponte_Alto	1.000000    	1.002000    	1.000000    	0.996000    	1.005000    	1.008000    
+ Perdita_D03_Ponte_Alto	1.008000    	1.001000    	0.995000    	1.005000    	1.008000    	1.008000    
+ Perdita_D03_Ponte_Alto	1.003000    	1.009000    	1.009000    	1.009000    	1.009000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.001000    	0.993000    	0.999000    	0.991000    	1.001000    	1.004000    
+ Perdita_D03_Ponte_Alto	0.993000    	0.990000    	0.998000    	1.006000    	0.994000    	1.003000    
+ Perdita_D03_Ponte_Alto	1.007000    	1.007000    	1.007000    	1.007000    	1.010000    	1.006000    
+ Perdita_D03_Ponte_Alto	0.992000    	1.005000    	1.000000    	0.990000    	1.003000    	0.993000    
+ Perdita_D03_Ponte_Alto	1.001000    	1.007000    	0.999000    	1.002000    	1.000000    	0.974000    
+ Perdita_D03_Ponte_Alto	1.003000    	1.007000    	1.007000    	1.008000    	1.008000    	1.008000    
+ Perdita_D03_Ponte_Alto	1.008000    	1.008000    	1.009000    	1.010000    	0.981000    	1.010000    
+ Perdita_D03_Ponte_Alto	1.002000    	1.009000    	1.010000    	1.010000    	1.009000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.010000    	1.010000    	1.006000    	0.998000    	1.008000    	0.997000    
+ Perdita_D03_Ponte_Alto	1.001000    	0.988000    	1.003000    	1.011000    	1.004000    	1.006000    
+ Perdita_D03_Ponte_Alto	1.008000    	1.008000    	1.003000    	1.007000    	1.004000    	1.007000    
+ Perdita_D03_Ponte_Alto	1.008000    	0.995000    	0.999000    	0.997000    	1.008000    	1.004000    
+ Perdita_D03_Ponte_Alto	1.008000    	1.008000    	1.009000    	1.008000    	1.009000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.009000    	1.001000    	1.009000    	1.006000    	1.009000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.000000    	1.009000    	1.009000    	1.003000    	0.994000    	1.009000    
+ Perdita_D03_Ponte_Alto	1.009000    	1.007000    	1.009000    	1.009000    	1.009000    	1.009000    
+
+[CURVES]
+;ID              	X-Value     	Y-Value
+
+[CONTROLS]
+
+
+[RULES]
+
+
+[ENERGY]
+ Global Efficiency  	75
+ Global Price       	1
+ Demand Charge      	0
+
+[EMITTERS]
+;Junction        	Coefficient
+
+[QUALITY]
+;Node            	InitQual
+
+[SOURCES]
+;Node            	Type        	Quality     	Pattern
+
+[REACTIONS]
+;Type     	Pipe/Tank       	Coefficient
+
+
+[REACTIONS]
+ Order Bulk            	1
+ Order Tank            	1
+ Order Wall            	1
+ Global Bulk           	0.000000
+ Global Wall           	0.000000
+ Limiting Potential    	0
+ Roughness Correlation 	0
+
+[MIXING]
+;Tank            	Model
+
+[TIMES]
+ Duration           	23:55 
+ Hydraulic Timestep 	0:05 
+ Quality Timestep   	0:05 
+ Pattern Timestep   	0:05 
+ Pattern Start      	0:00 
+ Report Timestep    	0:05 
+ Report Start       	0:00 
+ Start ClockTime    	0:00:00
+ Statistic          	NONE
+
+[REPORT]
+ Status             	Full
+ Summary            	No
+ Page               	0
+
+[OPTIONS]
+ Units              	LPS
+ Headloss           	H-W
+ Specific Gravity   	1.000000
+ Viscosity          	1.000000
+ Trials             	40
+ Accuracy           	0.001000
+ CHECKFREQ          	2
+ MAXCHECK           	10.000000
+ DAMPLIMIT          	0.000000
+ Unbalanced         	Continue 10
+ Pattern            	1
+ Demand Multiplier  	1.0
+ Emitter Exponent   	0.500000
+ Quality            	NONE mg/L
+ Diffusivity        	1.000000
+ Tolerance          	0.010000
+
+[COORDINATES]
+;Node            	X-Coord           	Y-Coord
+Junction_12     	336001.927        	4694421.867       
+Junction_13     	336046.227        	4694459.409       
+Junction_1335   	336306.478        	4694538.858       
+Junction_1336   	336306.870        	4694538.470       
+Junction_1337   	336303.068        	4694535.155       
+Junction_1338   	336303.030        	4694535.195       
+Junction_1339   	336301.585        	4694533.545       
+Junction_1340   	336302.049        	4694533.098       
+Junction_1341   	336298.809        	4694530.531       
+Junction_1342   	336297.818        	4694531.375       
+Junction_1343   	336305.825        	4694518.151       
+Junction_1344   	336303.650        	4694516.797       
+Junction_1345   	336304.393        	4694520.437       
+Junction_1346   	336308.065        	4694523.159       
+Junction_1347   	336294.548        	4694521.611       
+Junction_1348   	336295.051        	4694521.178       
+Junction_1349   	336289.333        	4694521.172       
+Junction_1350   	336307.377        	4694563.526       
+Junction_1351   	336309.596        	4694560.107       
+Junction_1352   	336312.357        	4694566.524       
+Junction_1353   	336312.781        	4694565.428       
+Junction_1354   	336315.181        	4694568.225       
+Junction_1355   	336314.437        	4694569.695       
+Junction_1356   	336300.612        	4694563.934       
+Junction_1357   	336302.697        	4694565.944       
+Junction_1358   	336297.514        	4694566.844       
+Junction_1359   	336297.100        	4694565.608       
+Junction_1360   	336297.134        	4694567.068       
+Junction_1361   	336298.473        	4694568.938       
+Junction_1362   	336285.088        	4694568.568       
+Junction_1363   	336285.442        	4694569.472       
+Junction_1364   	336262.770        	4694557.588       
+Junction_1365   	336264.081        	4694556.901       
+Junction_1366   	336262.463        	4694557.465       
+Junction_1367   	336263.536        	4694556.611       
+Junction_1368   	336262.242        	4694557.376       
+Junction_1369   	336263.538        	4694556.510       
+Junction_1370   	336270.591        	4694554.660       
+Junction_1371   	336278.620        	4694550.768       
+Junction_1372   	336277.085        	4694549.885       
+Junction_1373   	336260.210        	4694556.444       
+Junction_1374   	336265.397        	4694551.588       
+Junction_1375   	336258.474        	4694555.171       
+Junction_1376   	336259.311        	4694554.270       
+Junction_1377   	336257.509        	4694554.055       
+Junction_1378   	336257.503        	4694554.093       
+Junction_1379   	336285.630        	4694541.155       
+Junction_1380   	336283.625        	4694542.183       
+Junction_1381   	336246.648        	4694544.405       
+Junction_1382   	336246.884        	4694543.644       
+Junction_1383   	336247.397        	4694544.648       
+Junction_1384   	336247.248        	4694545.433       
+Junction_1385   	336250.663        	4694539.633       
+Junction_1386   	336253.327        	4694537.836       
+Junction_1387   	336255.152        	4694535.129       
+Junction_1388   	336260.785        	4694535.010       
+Junction_1389   	336252.658        	4694533.825       
+Junction_1390   	336250.444        	4694539.208       
+Junction_1391   	336252.408        	4694537.507       
+Junction_1392   	336247.807        	4694534.901       
+Junction_1393   	336251.413        	4694532.765       
+Junction_1394   	336252.344        	4694543.961       
+Junction_1395   	336253.292        	4694543.855       
+Junction_1396   	336237.109        	4694517.458       
+Junction_1397   	336236.248        	4694518.221       
+Junction_1398   	336234.200        	4694514.007       
+Junction_1399   	336234.649        	4694513.632       
+Junction_14     	336045.810        	4694460.842       
+Junction_1400   	336212.054        	4694510.920       
+Junction_1401   	336211.003        	4694512.542       
+Junction_1402   	336234.664        	4694504.291       
+Junction_1403   	336237.614        	4694505.599       
+Junction_1404   	336232.769        	4694502.869       
+Junction_1405   	336230.650        	4694505.726       
+Junction_1406   	336228.644        	4694507.417       
+Junction_1407   	336243.137        	4694547.622       
+Junction_1408   	336244.269        	4694547.957       
+Junction_1409   	336244.004        	4694544.616       
+Junction_1410   	336242.788        	4694545.339       
+Junction_1411   	336244.286        	4694543.638       
+Junction_1412   	336234.667        	4694540.542       
+Junction_1413   	336234.540        	4694541.014       
+Junction_1414   	336232.234        	4694539.873       
+Junction_1415   	336232.396        	4694539.315       
+Junction_1416   	336229.125        	4694538.779       
+Junction_1417   	336229.056        	4694538.973       
+Junction_1418   	336227.210        	4694537.914       
+Junction_1419   	336227.424        	4694537.341       
+Junction_1420   	336238.774        	4694573.837       
+Junction_1421   	336237.720        	4694574.064       
+Junction_1422   	336240.486        	4694573.058       
+Junction_1423   	336237.709        	4694571.086       
+Junction_1424   	336219.790        	4694540.730       
+Junction_1425   	336219.344        	4694540.541       
+Junction_1426   	336221.888        	4694536.870       
+Junction_1427   	336221.760        	4694538.195       
+Junction_1428   	336217.351        	4694559.942       
+Junction_1429   	336217.325        	4694559.987       
+Junction_1430   	336213.902        	4694553.985       
+Junction_1431   	336214.275        	4694554.151       
+Junction_1432   	336219.238        	4694561.295       
+Junction_1433   	336219.589        	4694560.499       
+Junction_1434   	336227.489        	4694563.190       
+Junction_1435   	336227.742        	4694561.091       
+Junction_1436   	336228.134        	4694563.378       
+Junction_1437   	336230.439        	4694563.615       
+Junction_1438   	336220.023        	4694561.936       
+Junction_1439   	336215.887        	4694567.739       
+Junction_1440   	336226.132        	4694566.480       
+Junction_1441   	336226.969        	4694566.965       
+Junction_1442   	336221.604        	4694536.754       
+Junction_1443   	336222.039        	4694535.700       
+Junction_1444   	336219.062        	4694534.240       
+Junction_1445   	336219.601        	4694533.345       
+Junction_1446   	336228.456        	4694529.433       
+Junction_1447   	336232.285        	4694524.267       
+Junction_1448   	336231.428        	4694532.209       
+Junction_1449   	336231.778        	4694531.432       
+Junction_1450   	336223.573        	4694526.777       
+Junction_1451   	336223.193        	4694527.711       
+Junction_1452   	336235.012        	4694533.897       
+Junction_1453   	336216.422        	4694525.185       
+Junction_1454   	336214.318        	4694523.391       
+Junction_1455   	336211.510        	4694531.234       
+Junction_1456   	336209.567        	4694530.665       
+Junction_1457   	336209.262        	4694531.177       
+Junction_1458   	336204.225        	4694539.494       
+Junction_1459   	336205.510        	4694539.660       
+Junction_1460   	336204.209        	4694541.079       
+Junction_1461   	336203.338        	4694541.040       
+Junction_1462   	336204.198        	4694542.099       
+Junction_1463   	336205.993        	4694542.085       
+Junction_1464   	336204.174        	4694544.447       
+Junction_1465   	336205.849        	4694544.586       
+Junction_1466   	336204.157        	4694546.117       
+Junction_1467   	336203.522        	4694546.063       
+Junction_1468   	336204.690        	4694529.483       
+Junction_1469   	336164.608        	4694532.641       
+Junction_1470   	336162.191        	4694535.436       
+Junction_1471   	336135.196        	4694490.191       
+Junction_1472   	336138.594        	4694491.436       
+Junction_1473   	336132.344        	4694493.621       
+Junction_1474   	336093.536        	4694467.968       
+Junction_1475   	336095.344        	4694464.931       
+Junction_1476   	336068.470        	4694456.658       
+Junction_1477   	336070.204        	4694451.289       
+Junction_1478   	336181.344        	4694552.008       
+Junction_1479   	336186.812        	4694550.123       
+Junction_1480   	336179.837        	4694546.483       
+Junction_1481   	336179.084        	4694547.312       
+Junction_1482   	336184.719        	4694556.907       
+Junction_1483   	336189.595        	4694556.967       
+Junction_1484   	336189.627        	4694556.527       
+Junction_1485   	336184.102        	4694557.219       
+Junction_1486   	336184.031        	4694557.037       
+Junction_1487   	336184.167        	4694559.246       
+Junction_1488   	336182.254        	4694559.859       
+Junction_1489   	336184.895        	4694559.223       
+Junction_1490   	336183.660        	4694559.403       
+Junction_1491   	336181.885        	4694559.606       
+Junction_1492   	336184.823        	4694559.042       
+Junction_1493   	336186.866        	4694562.934       
+Junction_1494   	336189.261        	4694560.844       
+Junction_1495   	336186.324        	4694563.062       
+Junction_1496   	336187.085        	4694565.195       
+Junction_1497   	336186.087        	4694565.444       
+Junction_1498   	336201.997        	4694616.070       
+Junction_1499   	336204.111        	4694615.376       
+Junction_1500   	336209.593        	4694630.979       
+Junction_1501   	336214.775        	4694630.485       
+Junction_1502   	336211.858        	4694635.648       
+Junction_1503   	336215.583        	4694634.871       
+Junction_1504   	336288.868        	4694518.043       
+Junction_1505   	336282.311        	4694504.215       
+Junction_1506   	336287.580        	4694519.715       
+Junction_1507   	336301.669        	4694560.089       
+Junction_1508   	336303.139        	4694559.832       
+Junction_1509   	336246.316        	4694532.955       
+Junction_1510   	336243.291        	4694529.364       
+Junction_1511   	336207.979        	4694511.124       
+Junction_1528   	336211.857        	4694635.646       
+Junction_1529   	336290.505        	4694542.918       
+Junction_1530   	336288.325        	4694545.166       
+Junction_1531   	336283.635        	4694539.463       
+Junction_1532   	336284.296        	4694538.755       
+Junction_1533   	336276.049        	4694517.003       
+Junction_1534   	336274.922        	4694517.526       
+Junction_1535   	336266.884        	4694511.321       
+Junction_1536   	336267.416        	4694510.692       
+Junction_1537   	336265.484        	4694511.760       
+Junction_1538   	336266.408        	4694515.217       
+Junction_1539   	336265.310        	4694510.350       
+Junction_1540   	336256.570        	4694502.614       
+Junction_1541   	336252.551        	4694505.294       
+Junction_1542   	336254.686        	4694500.340       
+Junction_1543   	336253.459        	4694501.066       
+Junction_1544   	336246.627        	4694492.444       
+Junction_1545   	336245.650        	4694493.471       
+Junction_1546   	336229.095        	4694479.375       
+Junction_1547   	336228.349        	4694480.418       
+Junction_1548   	336217.493        	4694472.654       
+Junction_1549   	336217.316        	4694474.040       
+Junction_1550   	336287.525        	4694541.939       
+Junction_1551   	336274.844        	4694514.048       
+Junction_1552   	336207.717        	4694483.443       
+Junction_1553   	336210.413        	4694482.301       
+Junction_1554   	336210.109        	4694483.877       
+Junction_1555   	336211.430        	4694483.774       
+Junction_1556   	336208.462        	4694484.601       
+Junction_1557   	336210.160        	4694486.056       
+Junction_1558   	336211.229        	4694487.426       
+Junction_1559   	336208.766        	4694485.342       
+Junction_1560   	336207.742        	4694489.274       
+Junction_1561   	336206.825        	4694488.420       
+Junction_1562   	336207.016        	4694493.445       
+Junction_1563   	336208.628        	4694493.242       
+Junction_1564   	336207.020        	4694494.544       
+Junction_1565   	336206.170        	4694494.802       
+Junction_1566   	336207.311        	4694496.718       
+Junction_1567   	336208.272        	4694496.558       
+Junction_1568   	336207.872        	4694504.334       
+Junction_1569   	336209.158        	4694504.356       
+Junction_1570   	336207.908        	4694507.138       
+Junction_1571   	336208.890        	4694507.164       
+Junction_1572   	336203.526        	4694516.516       
+Junction_1573   	336204.514        	4694517.070       
+Junction_1574   	336198.800        	4694470.992       
+Junction_1575   	336197.209        	4694473.633       
+Junction_1576   	336199.413        	4694470.626       
+Junction_1577   	336196.917        	4694469.362       
+Junction_1578   	336195.552        	4694470.443       
+Junction_1579   	336197.592        	4694469.014       
+Junction_1580   	336191.408        	4694463.156       
+Junction_1581   	336190.582        	4694463.798       
+Junction_1582   	336190.698        	4694462.438       
+Junction_1583   	336189.891        	4694463.132       
+Junction_1584   	336188.317        	4694460.028       
+Junction_1585   	336187.563        	4694460.730       
+Junction_1586   	336185.645        	4694457.345       
+Junction_1587   	336187.429        	4694455.793       
+Junction_1588   	336182.750        	4694456.732       
+Junction_1589   	336180.210        	4694459.223       
+Junction_1590   	336184.173        	4694455.927       
+Junction_1591   	336180.707        	4694453.651       
+Junction_1592   	336174.317        	4694457.801       
+Junction_1593   	336181.263        	4694453.122       
+Junction_1594   	336158.141        	4694433.605       
+Junction_1595   	336160.201        	4694431.311       
+Junction_1596   	336140.761        	4694417.313       
+Junction_1597   	336140.243        	4694417.764       
+Junction_1598   	336182.566        	4694529.318       
+Junction_1599   	336183.617        	4694527.336       
+Junction_1600   	336186.057        	4694530.935       
+Junction_1601   	336187.814        	4694527.955       
+Junction_1602   	336186.315        	4694527.182       
+Junction_1603   	336196.887        	4694524.552       
+Junction_1604   	336180.118        	4694546.903       
+Junction_1605   	336181.544        	4694546.463       
+Junction_1946   	336136.470        	4694412.857       
+Junction_1947   	336135.512        	4694411.703       
+Junction_1948   	336134.391        	4694412.643       
+Junction_1949   	336212.111        	4694488.639       
+Junction_1950   	336212.992        	4694489.853       
+Junction_1974   	336257.267        	4694555.619       
+Junction_1975   	336183.345        	4694532.980       
+Junction_1976   	336181.985        	4694532.346       
+Junction_1977   	336181.351        	4694533.705       
+Junction_1978   	336182.619        	4694530.986       
+Junction_1979   	336180.850        	4694548.206       
+Junction_1980   	336179.281        	4694545.656       
+Junction_1981   	336190.560        	4694535.409       
+Junction_1982   	336236.263        	4694570.687       
+Junction_2091   	336057.930        	4694452.692       
+Junction_2092   	336196.568        	4694527.125       
+Junction_2093   	336195.135        	4694526.673       
+Junction_2094   	336204.158        	4694545.996       
+Junction_2095   	336234.880        	4694570.294       
+Junction_2096   	336239.075        	4694557.160       
+Junction_2097   	336285.188        	4694568.584       
+Junction_2098   	336281.272        	4694516.233       
+Junction_2099   	336308.974        	4694550.895       
+Junction_2100   	336307.769        	4694519.377       
+Junction_2101   	336277.314        	4694519.772       
+Junction_2102   	336203.434        	4694475.048       
+Junction_2103   	336202.442        	4694475.244       
+Junction_2104   	336208.402        	4694484.508       
+Junction_2105   	336207.033        	4694493.345       
+Junction_2106   	336207.051        	4694494.773       
+Junction_2107   	336123.349        	4694400.097       
+Junction_2108   	336134.562        	4694410.563       
+Junction_2109   	336086.694        	4694359.087       
+Junction_2112   	336185.145        	4694517.512       
+Junction_2137   	336252.454        	4694546.846       
+Junction_2331   	336138.658        	4694419.148       
+Junction_2332   	336161.200        	4694430.200       
+Junction_2333   	336186.991        	4694461.264       
+Junction_2334   	336189.018        	4694463.883       
+Junction_2335   	336189.642        	4694464.528       
+Junction_2336   	336216.947        	4694476.913       
+Junction_2337   	336244.650        	4694494.524       
+Junction_2338   	336251.357        	4694502.309       
+Junction_2339   	336269.731        	4694507.954       
+Junction_2340   	336273.976        	4694517.964       
+Junction_2341   	336297.031        	4694519.472       
+Junction_2342   	336327.585        	4694536.824       
+Junction_2343   	336302.464        	4694532.699       
+Junction_2344   	336302.534        	4694535.715       
+Junction_2345   	336307.524        	4694537.824       
+Junction_2346   	336284.655        	4694538.369       
+Junction_2347   	336303.991        	4694567.191       
+Junction_2348   	336299.598        	4694570.509       
+Junction_2349   	336296.555        	4694563.983       
+Junction_2350   	336286.621        	4694572.479       
+Junction_2351   	336263.975        	4694549.253       
+Junction_2352   	336253.752        	4694568.931       
+Junction_2353   	336254.815        	4694543.684       
+Junction_2354   	336246.961        	4694546.940       
+Junction_2355   	336247.092        	4694542.971       
+Junction_2356   	336241.501        	4694546.104       
+Junction_2357   	336234.055        	4694542.811       
+Junction_2358   	336232.553        	4694538.774       
+Junction_2359   	336228.440        	4694540.703       
+Junction_2360   	336227.662        	4694536.705       
+Junction_2361   	336220.046        	4694532.605       
+Junction_2362   	336218.852        	4694540.332       
+Junction_2363   	336208.353        	4694532.701       
+Junction_2364   	336207.834        	4694539.959       
+Junction_2365   	336201.370        	4694540.950       
+Junction_2366   	336207.527        	4694542.073       
+Junction_2367   	336206.918        	4694544.675       
+Junction_2368   	336202.854        	4694546.007       
+Junction_2369   	336214.960        	4694554.456       
+Junction_2370   	336217.051        	4694560.472       
+Junction_2371   	336219.893        	4694559.811       
+Junction_2372   	336243.481        	4694571.694       
+Junction_2373   	336236.755        	4694574.272       
+Junction_2374   	336185.467        	4694565.600       
+Junction_2375   	336207.546        	4694614.248       
+Junction_2376   	336235.239        	4694513.139       
+Junction_2377   	336235.514        	4694518.873       
+Junction_2378   	336258.187        	4694535.404       
+Junction_2379   	336205.226        	4694517.469       
+Junction_2380   	336209.963        	4694507.193       
+Junction_2381   	336210.240        	4694504.374       
+Junction_2382   	336209.332        	4694496.381       
+Junction_2383   	336205.516        	4694495.000       
+Junction_2384   	336209.339        	4694493.152       
+Junction_2385   	336205.796        	4694487.461       
+Junction_2635   	336211.261        	4694533.249       
+Junction_2636   	336187.378        	4694534.319       
+Junction_2637   	336282.389        	4694512.181       
+Junction_2638   	336280.821        	4694519.938       
+Junction_2690   	336315.329        	4694548.886       
+Junction_2817   	336068.469        	4694449.702       
+Junction_2818   	336066.811        	4694448.186       
+Junction_2839   	336247.303        	4694544.617       
+Junction_3432   	336205.014        	4694539.596       
+Junction_3433   	336204.020        	4694546.105       
+Junction_3434   	336205.351        	4694544.545       
+Junction_3435   	336205.493        	4694542.089       
+Junction_3436   	336203.838        	4694541.062       
+Junction_3437   	336219.387        	4694560.956       
+Junction_3438   	336227.298        	4694563.652       
+Junction_3439   	336227.979        	4694563.854       
+Junction_3440   	336240.030        	4694573.265       
+Junction_3441   	336238.209        	4694573.959       
+Junction_3442   	336247.341        	4694544.942       
+Junction_3443   	336246.736        	4694544.122       
+Junction_3444   	336243.218        	4694545.083       
+Junction_3445   	336232.257        	4694539.795       
+Junction_3446   	336227.249        	4694537.809       
+Junction_3447   	336219.343        	4694533.773       
+Junction_3448   	336211.322        	4694532.753       
+Junction_3449   	336209.518        	4694530.748       
+Junction_3450   	336307.346        	4694519.110       
+Junction_3451   	336294.672        	4694521.504       
+Junction_3452   	336288.563        	4694518.439       
+Junction_3453   	336301.689        	4694533.445       
+Junction_3454   	336306.514        	4694538.822       
+Junction_3455   	336314.852        	4694549.037       
+Junction_3456   	336302.337        	4694565.597       
+Junction_3457   	336297.259        	4694566.082       
+Junction_3458   	336298.182        	4694568.532       
+Junction_3459   	336285.259        	4694569.006       
+Junction_3460   	336263.638        	4694557.133       
+Junction_3461   	336263.122        	4694556.787       
+Junction_3462   	336263.144        	4694556.923       
+Junction_3463   	336258.970        	4694554.636       
+Junction_3464   	336257.344        	4694555.125       
+Junction_3465   	336252.795        	4694543.910       
+Junction_3466   	336252.912        	4694538.115       
+Junction_3467   	336252.030        	4694537.834       
+Junction_3468   	336245.994        	4694532.573       
+Junction_3469   	336236.622        	4694517.889       
+Junction_3470   	336234.265        	4694513.952       
+Junction_3471   	336230.268        	4694506.049       
+Junction_3477   	336002.383        	4694422.072       
+Junction_3478   	336283.955        	4694539.120       
+Junction_3479   	336275.375        	4694517.315       
+Junction_3480   	336267.093        	4694511.073       
+Junction_3481   	336265.423        	4694511.263       
+Junction_3482   	336253.890        	4694500.811       
+Junction_3483   	336245.995        	4694493.109       
+Junction_3484   	336228.640        	4694480.012       
+Junction_3485   	336217.379        	4694473.544       
+Junction_3486   	336181.069        	4694453.307       
+Junction_3487   	336140.620        	4694417.435       
+Junction_3488   	336159.867        	4694431.683       
+Junction_3489   	336183.186        	4694456.485       
+Junction_3490   	336187.929        	4694460.389       
+Junction_3491   	336190.270        	4694462.806       
+Junction_3492   	336190.977        	4694463.491       
+Junction_3493   	336197.362        	4694469.133       
+Junction_3494   	336199.229        	4694470.735       
+Junction_3496   	336209.417        	4694482.723       
+Junction_3497   	336209.877        	4694482.528       
+Junction_3498   	336209.652        	4694484.078       
+Junction_3499   	336209.715        	4694485.828       
+Junction_3500   	336207.191        	4694488.760       
+Junction_3501   	336208.132        	4694493.304       
+Junction_3502   	336206.649        	4694494.656       
+Junction_3503   	336207.779        	4694496.640       
+Junction_3504   	336208.658        	4694504.347       
+Junction_3505   	336208.390        	4694507.151       
+Junction_3506   	336204.078        	4694516.825       
+Junction_3507   	336203.636        	4694615.532       
+Junction_3508   	336186.573        	4694565.323       
+Junction_3509   	336186.379        	4694563.049       
+Junction_3510   	336184.138        	4694559.255       
+Junction_3511   	336134.877        	4694490.575       
+Junction_3512   	336070.050        	4694451.765       
+Junction_3595   	336048.121        	4694459.649       
+S_Paterno       	336044.948        	4694463.804       
+
+[VERTICES]
+;Link            	X-Coord           	Y-Coord
+1001            	336270.463        	4694554.297       
+1007            	336285.227        	4694541.903       
+1007            	336284.935        	4694542.707       
+1007            	336284.463        	4694542.466       
+1011            	336258.957        	4694532.831       
+1012            	336253.657        	4694533.266       
+1051            	336213.231        	4694529.153       
+1058            	336204.243        	4694537.671       
+1080            	336289.704        	4694514.692       
+1080            	336290.350        	4694511.617       
+1080            	336290.206        	4694508.563       
+1084            	336244.258        	4694530.511       
+1085            	336210.255        	4694510.884       
+1098            	336006.921        	4694424.121       
+1098            	336015.673        	4694429.866       
+1098            	336020.744        	4694434.879       
+1098            	336027.842        	4694439.691       
+1098            	336042.377        	4694445.068       
+1098            	336052.280        	4694449.907       
+1098            	336046.807        	4694457.415       
+1098            	336046.690        	4694457.819       
+1112            	336288.950        	4694542.407       
+1113            	336275.438        	4694515.665       
+1114            	336268.720        	4694512.453       
+1142            	336183.297        	4694529.657       
+1144            	336194.987        	4694524.074       
+1144            	336190.943        	4694522.648       
+1430            	336175.311        	4694539.746       
+1430            	336166.508        	4694533.977       
+1431            	336185.393        	4694545.275       
+1513            	336064.172        	4694454.913       
+1514            	336088.472        	4694464.779       
+1515            	336112.560        	4694479.951       
+1516            	336158.635        	4694528.439       
+1516            	336153.329        	4694521.074       
+1516            	336147.839        	4694513.039       
+1516            	336139.063        	4694498.814       
+1516            	336133.175        	4694494.195       
+1517            	336180.392        	4694550.355       
+1517            	336181.637        	4694549.609       
+1517            	336181.545        	4694549.445       
+1518            	336183.801        	4694556.456       
+1518            	336181.872        	4694552.924       
+1522            	336185.505        	4694560.767       
+1524            	336196.618        	4694606.301       
+1524            	336193.452        	4694593.624       
+1524            	336188.139        	4694568.147       
+1525            	336205.052        	4694621.618       
+1529            	336201.918        	4694528.812       
+1531            	336210.433        	4694530.875       
+1532            	336215.953        	4694532.716       
+1539            	336220.418        	4694539.583       
+1540            	336235.606        	4694570.506       
+1541            	336228.969        	4694568.121       
+1541            	336232.086        	4694569.474       
+1543            	336224.277        	4694565.408       
+1545            	336218.313        	4694560.541       
+1546            	336230.028        	4694530.369       
+1547            	336226.040        	4694527.995       
+1548            	336217.539        	4694523.797       
+1549            	336226.687        	4694537.677       
+1551            	336230.475        	4694539.390       
+1554            	336240.367        	4694557.234       
+1559            	336260.565        	4694556.704       
+1560            	336300.946        	4694563.531       
+1561            	336298.854        	4694566.056       
+1563            	336288.045        	4694569.028       
+1563            	336292.341        	4694568.725       
+1563            	336296.412        	4694567.493       
+1566            	336277.793        	4694514.899       
+1567            	336291.825        	4694543.352       
+1567            	336295.926        	4694545.694       
+1567            	336298.489        	4694548.799       
+1567            	336300.280        	4694552.181       
+1567            	336301.648        	4694555.209       
+1567            	336301.817        	4694558.007       
+1569            	336308.689        	4694541.259       
+1569            	336308.925        	4694546.117       
+1569            	336308.922        	4694550.163       
+1573            	336290.780        	4694522.376       
+1573            	336295.506        	4694526.945       
+1580            	336228.951        	4694479.274       
+1581            	336241.464        	4694488.077       
+1582            	336251.699        	4694496.733       
+1584            	336263.916        	4694509.491       
+1584            	336257.893        	4694504.212       
+1585            	336207.886        	4694505.879       
+1593            	336207.839        	4694500.667       
+1595            	336151.874        	4694428.857       
+1596            	336174.928        	4694447.017       
+1596            	336163.324        	4694437.532       
+1599            	336186.102        	4694457.786       
+1602            	336194.441        	4694466.225       
+1604            	336124.029        	4694400.315       
+1605            	336088.702        	4694356.684       
+1609            	336177.684        	4694530.417       
+1609            	336183.783        	4694519.242       
+1714            	336252.780        	4694545.370       
+1715            	336251.517        	4694541.288       
+1717            	336249.074        	4694536.554       
+1718            	336239.661        	4694520.485       
+1718            	336242.123        	4694528.022       
+1722            	336285.926        	4694541.406       
+2168            	336309.508        	4694520.520       
+2168            	336311.807        	4694520.864       
+2168            	336315.328        	4694521.129       
+2168            	336318.890        	4694523.132       
+2168            	336321.248        	4694524.853       
+2168            	336328.541        	4694536.077       
+2178            	336255.185        	4694569.126       
+2204            	336257.735        	4694534.862       
+2462            	336217.753        	4694544.449       
+2462            	336214.936        	4694551.652       
+2463            	336212.492        	4694557.165       
+2463            	336215.481        	4694558.777       
+2466            	336277.178        	4694523.482       
+2466            	336278.349        	4694530.721       
+2466            	336280.266        	4694536.607       
+2569            	336281.955        	4694516.495       
+2569            	336285.914        	4694518.329       
+2588            	336309.113        	4694552.842       
+2588            	336308.794        	4694556.214       
+2588            	336307.678        	4694558.198       
+2588            	336305.658        	4694559.439       
+2588            	336304.621        	4694559.601       
+2751            	336069.025        	4694450.211       
+2752            	336067.918        	4694449.198       
+2760            	336248.935        	4694545.145       
+2762            	336253.800        	4694548.765       
+2762            	336255.882        	4694552.039       
+2763            	336258.315        	4694555.055       
+2809            	336297.105        	4694522.580       
+2809            	336300.127        	4694523.600       
+2809            	336301.593        	4694523.668       
+2809            	336302.535        	4694522.851       
+2812            	336246.523        	4694544.365       
+2812            	336244.722        	4694543.782       
+2814            	336236.278        	4694540.984       
+990             	336290.885        	4694520.221       
+Pipe_101        	336208.816        	4694485.152       
+Pipe_106        	336206.935        	4694493.910       
+Pipe_108        	336185.385        	4694532.277       
+Pipe_108        	336184.704        	4694533.614       
+Pipe_489        	336056.522        	4694452.191       
+Pipe_95         	336263.720        	4694557.969       
+Pipe_95         	336266.316        	4694559.613       
+Pipe_95         	336269.033        	4694561.214       
+Pipe_95         	336271.854        	4694563.827       
+Pipe_95         	336274.593        	4694566.401       
+Pipe_95         	336277.211        	4694567.455       
+Pipe_95         	336281.088        	4694568.339       
+Pipe_95         	336284.419        	4694568.464       
+Pipe_97         	336212.684        	4694510.932       
+Pipe_97         	336216.048        	4694508.110       
+Pipe_97         	336220.145        	4694505.059       
+Pipe_97         	336223.051        	4694502.985       
+Pipe_97         	336225.658        	4694503.874       
+606.1           	336209.647        	4694482.626       
+
+[LABELS]
+;X-Coord             Y-Coord             Label & Anchor Node
+
+[BACKDROP]
+  DIMENSIONS  	334979.683        	4692675.518       	339407.505        	4697380.322       
+ UNITS          	None
+ FILE           	
+ OFFSET         	0.00            	0.00            
+
+[END]
