@@ -225,7 +225,7 @@ class EmbeddingLayer(nn.Module):
         ret = F.leaky_relu(node_features_embeddings + x2 + edge_features_embeddings)
         return ret
 
-class NoisyLinear():
+class NoisyLinear(nn.Linear):
     def __init__(self, in_features, out_features, sigma_init=0.017):
         super().__init__(in_features, out_features)
         # Standard parameters (µ)
